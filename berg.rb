@@ -1,89 +1,17 @@
+require "./key"
+require "./value"
 require "json"
-require "pp"
 
-object = JSON.parse(File.read("data.json"))
+data = JSON.parse(File.read("data.json"))
+query = ".context.dispatcher.stores.PageStore.pages./nrj/latlista.data[1].modules[2].content[0].title"
+value = "Fire in the Rain"
 
-module Berg
-  class Key
-    def initialize(&block)
-      @block = block
-    end
-
-    def self.locate(object, &block)
-      new(&block).locate(object, "").query
-    end
-
-    def locate(object, current)
-      case object
-      when Array
-        object.each_with_index do |rest, index|
-          if (result = locate(rest, current + "[#{index}]")).found?
-            return result
-          end
-        end
-      when Hash
-        object.each_pair do |key, value|
-          if (result = locate(value, current + ".#{key}")).found?
-            return result
-          end
-        end
-      when TrueClass, FalseClass, NilClass, Fixnum, String
-        return @block.call(object) ? Found.new(current) : NotFound.new
-      when Found, NotFound
-        return object
-      else
-        raise "Type #{object.class} not supported"
-      end
-
-      return NotFound.new
-    end
-  end
-
-  class Value < Struct.new(:object, :query)
-    ARRAY_ID = /\[(\d+)\]/
-
-    def self.locate(object, query)
-      new(object, query).locate
-    end
-
-    def locate
-      latest = object
-      query.split(/\.|(\[\d+\])/).reject(&:empty?).inject("") do |result, key|
-        found = case key
-        when ARRAY_ID
-          latest[$1.to_i]
-        else
-          latest[key] || latest[key.to_sym]
-        end
-
-        result = add(result, key)
-        found or raise "#{latest.class} does not respond to '#{key}' in '#{result}'"
-        latest = found
-        result
-      end
-
-      latest
-    end
-
-    def add(current, key)
-      current << (key.match(ARRAY_ID) ? key : ".#{key}")
-    end
-  end
-
-  class Found < Struct.new(:query)
-    def found?; true; end
-  end
-
-  class NotFound
-    def found?; false; end
-    def query; nil end
-  end
+# Get query for #{item} in #{data}
+found_query = Berg::Key.locate(data) do |leaf|
+  leaf.to_s.include?(value)
 end
 
-# result1 = Berg::Key.locate(object) do |leaf|
-#   leaf.to_s.downcase.include?("fire in the rain")
-# end
+# Get value from #{query}
+found_value = Berg::Value.locate(data, query)
 
-result2 = Berg::Value.locate(object, ".context.dispatcher.stores.PageStore.pages./nrj/latlista.data[1].modules[2].content[0].title")
-
-pp [result2, result2]
+p [found_value == value, found_query == query]

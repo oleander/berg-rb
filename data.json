@@ -1,0 +1,3979 @@
+{
+	"context": {
+		"dispatcher": {
+			"stores": {
+				"I18nStore": {
+					"ARTICLE_FORM_VALIDATE_RULES": "Du måste godkänna reglerna.",
+					"FOOTER_NAVIGATION_09_URL": "",
+					"SIGN_UP_SUCCESS_BODY": "Välkommen! Logga in för att ta del av en bättre lyssnarupplevelse!",
+					"FOOTER_NAVIGATION_05_TEXT": "Annonsera",
+					"LOGIN_CREATE_ACCOUNT": "Saknar du konto? Skapa ett gratis.",
+					"PLAYER_NEXT_BUTTON": "Nästa:",
+					"BACKEND_FORBIDDEN_IP_MESSAGE": "BACKEND_FORBIDDEN_IP_MESSAGE",
+					"BACKEND_HISTORY_INVALID_TYPE_MESSAGE": "BACKEND_HISTORY_INVALID_TYPE_MESSAGE",
+					"BACKEND_INVALID_USER_SETTING_FORMAT_TITLE": "BACKEND_INVALID_USER_SETTING_FORMAT_TITLE",
+					"COOKIE_BAR_MESSAGE": "RadioPlay använder cookies för att förbättra din användarupplevelse",
+					"PROFILE_PASSWORD_BUTTON": "Uppdatera lösenord",
+					"COMMON_MONTH_3": "Mars",
+					"NOTIFICATIONS_FEEDBACK_SUCCESS": "Sparat",
+					"NOTIFICATIONS_TITLE": "E-post Notifieringar - RadioPlay",
+					"NEW_EMAIL_FEEDBACK_SUCCESS_HEADER": "Klart!",
+					"FOOTER_NAVIGATION_04_TEXT": "Cookies",
+					"PLAYER_SHARE": "Dela",
+					"HEADER_NAVIGATION_SEARCH": "Sök",
+					"RESET_PASSWORD_HEADER": "Glömt lösenord",
+					"BACKEND_SIGNUP_INVALID_POSTAL_CODE_FORMAT_MESSAGE": "BACKEND_SIGNUP_INVALID_POSTAL_CODE_FORMAT_MESSAGE",
+					"SETTINGS_SUBMIT_FEEDBACK_BUTTON": "OK",
+					"LOGIN_FORGOT_PASSWORD": "Glömt lösenord?",
+					"COMMON_MONTH_4": "April",
+					"PROFILE_TITLE": "Användaruppgifter - RadioPlay",
+					"BACKEND_INVALID_BIRTHDATE_MESSAGE": "BACKEND_INVALID_BIRTHDATE_MESSAGE",
+					"INVALID_EMAIL_ADDRESS_TITLE": "Fel",
+					"LOGIN_TITLE": "Logga in - RadioPlay",
+					"BACKEND_SIGNUP_INVALID_BIRTHDATE_TITLE": "BACKEND_SIGNUP_INVALID_BIRTHDATE_TITLE",
+					"LOGOUT_HEADER": "Logga ut",
+					"BACKEND_INVALID_EMAIL_TITLE": "BACKEND_INVALID_EMAIL_TITLE",
+					"SIGN_UP_LEGAL_LINK": "användarvillkor",
+					"BACKEND_UID_ALREADY_PAIRED_MESSAGE": "BACKEND_UID_ALREADY_PAIRED_MESSAGE",
+					"TRACK_HISTORY_TODAY": "Idag",
+					"COMMON_MONTH_5": "Maj",
+					"FOOTER_NAVIGATION_03_TEXT": "Användarvilkor",
+					"LOGIN_HEADER": "Logga in",
+					"FOOTER_COPYRIGHT": "&copy; 2016 Bauer Media Group AB.",
+					"PROFILE_HEADER": "Användaruppgifter",
+					"LOGIN_SUBMIT_BUTTON": "Logga in",
+					"FOOTER_NAVIGATION_02_TEXT": "Frekvenser",
+					"COMMON_MONTH_6": "Juni",
+					"BACKEND_SIGNUP_USER_ALREADY_EXISTS_MESSAGE": "BACKEND_SIGNUP_USER_ALREADY_EXISTS_MESSAGE",
+					"BACKEND_INVALID_LANGUAGE_TITLE": "BACKEND_INVALID_LANGUAGE_TITLE",
+					"SIGN_UP_BODY": "Logga in och få en mer personlig upplevelse. Få tips om innehåll du inte vill missa. Vi hjälper dig att upptäcka ny musik.",
+					"BACKEND_FORM_DATA_NOT_VALID_TITLE": "BACKEND_FORM_DATA_NOT_VALID_TITLE",
+					"NEW_EMAIL_BODY": "Byt din nuvarande mailadress {{OLD_EMAIL}} till {{NEW_EMAIL}}?",
+					"RESET_PASSWORD_TITLE": "Glömt lösenord - RadioPlay",
+					"RESET_PASSWORD_FEEDBACK_SUCCESS_BODY": "Om det finns ett konto kopplat till e-postadressen du angav skickas ett mail till den adressen inom kort där du via en länk kan byta lösenord.",
+					"FOOTER_APPSTORE": "Ladda ner vår iOS app",
+					"BACKEND_UID_NOT_FOUND_MESSAGE": "BACKEND_UID_NOT_FOUND_MESSAGE",
+					"NOTIFICATIONS_HEADER": "E-post Notifieringar",
+					"LIST_CLIP_NAV_FETCH_MORE": "Visa fler ljudklipp",
+					"FOOTER_NAVIGATION_12_TEXT": "",
+					"FOOTER_NAVIGATION_01_TEXT": "Tävlingsregler",
+					"MODULE_SONOS_CONNECT_CHANGE_USER_BUTTON_TEXT": "Byt konto",
+					"BACKEND_STATION_CATEGORY_NOT_FOUND_TITLE": "BACKEND_STATION_CATEGORY_NOT_FOUND_TITLE",
+					"COMMON_MONTH_7": "Juli",
+					"BACKEND_HISTORY_INVALID_DATE_TITLE": "BACKEND_HISTORY_INVALID_DATE_TITLE",
+					"BACKEND_SIGNUP_ERROR_TITLE": "BACKEND_SIGNUP_ERROR_TITLE",
+					"LOGIN_PASSWORD_PLACEHOLDER": "Lösenord",
+					"BACKEND_FORM_DISABLED_TITLE": "BACKEND_FORM_DISABLED_TITLE",
+					"FOOTER_NAVIGATION_11_TEXT": "",
+					"BACKEND_HISTORY_OBJECT_NOT_FOUND_TITLE": "BACKEND_HISTORY_OBJECT_NOT_FOUND_TITLE",
+					"BACKEND_ERROR_MESSAGE": "BACKEND_ERROR_MESSAGE",
+					"PROFILE_PASSWORD_PLACEHOLDER": "Nytt lösenord",
+					"BACKEND_USER_ALREADY_EXISTS_TITLE": "Fel",
+					"RESET_EMAIL_FEEDBACK_SUCCESS_BODY": "Ett mail med länk skickas till din nya epost inom kort!",
+					"COMMON_MONTH_8": "Augusti",
+					"BACKEND_USER_NOT_FOUND_TITLE": "Fel",
+					"BACKEND_USER_NOT_LOGGED_IN_TITLE": "Fel",
+					"SETTINGS_LOGOUT": "Logga ut",
+					"PROFILE_EMAIL": "Epost:",
+					"FOOTER_NAVIGATION_10_TEXT": "",
+					"PROFILE_PASSWORD_CONFIRM_PLACEHOLDER": "Konfirmera nytt lösenord",
+					"USER_INFO_FEEDBACK_SUCCESS_HEADER": "Klart!",
+					"RESET_PASSWORD_BUTTON": "Skicka",
+					"BACKEND_LOGIN_FAILED_MESSAGE": "BACKEND_LOGIN_FAILED_MESSAGE",
+					"BACKEND_INVALID_EMAIL_ADDRESS_MESSAGE": "Fel e-post.",
+					"SIGNATURE_EXPIRED_MESSAGE": "Något gick fel, försök igen. Om problemet kvarstår får du gärna höra av dig till support@radioplay.se",
+					"BACKEND_USER_CODE_NOT_FOUND_TITLE": "BACKEND_USER_CODE_NOT_FOUND_TITLE",
+					"COMMON_MONTH_9": "September",
+					"NEW_PASSWORD_BODY": "Fortsätt för att uppdatera ditt lösenord.",
+					"SIGN_UP_FOOTER_LOGIN": "Har du redan ett konto? Logga in här",
+					"PROFILE_REGION_LOADING": "Laddar ...",
+					"FOOTER_HELP_HEADER": "Hjälp",
+					"TRACK_HISTORY_NO_TRACKS": "Inga låtar hittade.",
+					"BACKEND_INVALID_PASSWORD_TITLE": "Fel",
+					"BACKEND_MODULE_NOT_FOUND_TITLE": "BACKEND_MODULE_NOT_FOUND_TITLE",
+					"PLAYER_CURRENT_TRACK": "Nu spelas",
+					"BACKEND_INVALID_POSTAL_CODE_TITLE": "BACKEND_INVALID_POSTAL_CODE_TITLE",
+					"NOTIFICATIONS_FEEDBACK_ERROR_HEADER": "Fel!",
+					"ARTICLE_FORM_SUBMIT_BUTTON": "Skicka in",
+					"BACKEND_INVALID_USER_SETTING_KEY_TITLE": "BACKEND_INVALID_USER_SETTING_KEY_TITLE",
+					"BACKEND_UID_USER_MISSMATCH_TITLE": "BACKEND_UID_USER_MISSMATCH_TITLE",
+					"SETTINGS_GENDER_UNKNOWN": "Annat",
+					"BACKEND_MODULE_REQUIRES_LOGIN_MESSAGE": "BACKEND_MODULE_REQUIRES_LOGIN_MESSAGE",
+					"FOOTER_GOOGLEPLAY_LINK": "https:\u002F\u002Fplay.google.com\u002Fstore\u002Fapps\u002Fdetails?id=se.sbs.radioplay&referrer=utm_source%3Dradioplay%26utm_medium%3Dweb_icon%26utm_term%3Dapp_install_icon%26utm_content%3Dapp_install_icon%26utm_campaign%3Dradioplay_app_install_icon",
+					"BACKEND_PERMISSION_DENIED_MESSAGE": "BACKEND_PERMISSION_DENIED_MESSAGE",
+					"ARTICLE_FORM_VALIDATE_CHECKBOXES": "Välj minst ett alternativ.",
+					"BACKEND_SIGNUP_GEOIP_FAILED_MESSAGE": "BACKEND_SIGNUP_GEOIP_FAILED_MESSAGE",
+					"PROFILE_BUTTON": "Spara",
+					"LOGIN_FEEDBACK_ERROR_HEADER": "Fel",
+					"PROFILE_EMAIL_PASSWORD_PLACEHOLDER": "Lösenord",
+					"HEADER_NAVIGATION_PODCASTS": "Podcasts",
+					"BACKEND_STATION_NOT_FOUND_MESSAGE": "BACKEND_STATION_NOT_FOUND_MESSAGE",
+					"BACKEND_CATEGORY_NOT_FOUND_MESSAGE": "BACKEND_CATEGORY_NOT_FOUND_MESSAGE",
+					"BACKEND_LOGIN_REQUIRED_MESSAGE": "BACKEND_LOGIN_REQUIRED_MESSAGE",
+					"BACKEND_HISTORY_CREDENTIALS_ERROR_TITLE": "BACKEND_HISTORY_CREDENTIALS_ERROR_TITLE",
+					"SIGNUP_USER_ALREADY_EXISTS_TITLE": "Fel",
+					"EPG_NO_PROGRAM": "Inga program idag.",
+					"INVALID_SIGNATURE_TITLE": "Fel",
+					"SIGNUP_ERROR_MESSAGE": "Något gick fel vid registrering av ditt konto",
+					"ADS_TITLE": "Reklam",
+					"MODULE_SONOS_CONNECT_LOGIN_BODY": "Du måste logga in på ditt RadioPlay konto för att kunna koppla ihop ditt konto med SONOS.",
+					"BACKEND_SIGNUP_MISSING_PASSWORD_TITLE": "BACKEND_SIGNUP_MISSING_PASSWORD_TITLE",
+					"BACKEND_INVALID_DATE_MESSAGE": "BACKEND_INVALID_DATE_MESSAGE",
+					"MODULE_SONOS_CONNECT_BUTTON_TEXT": "Koppla ihop konto",
+					"BACKEND_INVALID_PLAYLIST_ID_FORMAT_MESSAGE": "BACKEND_INVALID_PLAYLIST_ID_FORMAT_MESSAGE",
+					"USER_NOT_FOUND_MESSAGE": "Något gick fel, försök igen. Om problemet kvarstår får du gärna höra av dig till support@radioplay.se",
+					"RESET_PASSWORD_FEEDBACK_ERROR_HEADER": "Något gick fel!",
+					"USER_NOT_LOGGED_IN_MESSAGE": "Du är inte inloggad. Logga in och försök igen.",
+					"PROFILE_EMAIL_BUTTON": "Uppdatera epost",
+					"STATION_HERO_FOLLOW": "Följ station",
+					"PROFILE_FEEDBACK_ERROR_PASSWORD_BODY": "Kolla att lösenordet stämmer och prova sedan igen.",
+					"BACKEND_EMAIL_TEXT_NOT_FOUND_TITLE": "BACKEND_EMAIL_TEXT_NOT_FOUND_TITLE",
+					"SIGN_UP_SUCCESS_HEADER": "Välkommen till RadioPlay!",
+					"PROFILE_GENDER_PLACEHOLDER": "Välj kön...",
+					"BACKEND_INVALID_ARGUMENTS_MESSAGE": "BACKEND_INVALID_ARGUMENTS_MESSAGE",
+					"BACKEND_INVALID_TIME_PLAYED_TITLE": "BACKEND_INVALID_TIME_PLAYED_TITLE",
+					"INVALID_PASSWORD_MESSAGE": "Fel lösenord.",
+					"BACKEND_SIGNATURE_EXPIRED_TITLE": "Fel",
+					"BACKEND_ERROR_CREATING_ZENDESK_TICKET_TITLE": "BACKEND_ERROR_CREATING_ZENDESK_TICKET_TITLE",
+					"FOOTER_HELP_BUTTON": "Hjälp",
+					"BACKEND_ITEM_TYPE_INVALID_TITLE": "BACKEND_ITEM_TYPE_INVALID_TITLE",
+					"ARTICLE_FORM_DATEPICKER_DEFAULT_YEAR": "Välj år...",
+					"BACKEND_EXPIRED_SIGNATURE_TITLE": "BACKEND_EXPIRED_SIGNATURE_TITLE",
+					"TRACK_HISTORY_TIME": "Tid:",
+					"PROFILE_GENDER_LABEL": "Kön",
+					"BACKEND_SIGNUP_INVALID_GEO_COUNTRY_MESSAGE": "BACKEND_SIGNUP_INVALID_GEO_COUNTRY_MESSAGE",
+					"ARTICLE_FORM_DATEPICKER_DEFAULT_DAY": "Välj dag...",
+					"BACKEND_INVALID_SIGNATURE_MESSAGE": "Något gick fel, försök igen. Om problemet kvarstår får du gärna höra av dig till support@radioplay.se",
+					"BACKEND_MODULE_NOT_PAGINATABLE_TITLE": "BACKEND_MODULE_NOT_PAGINATABLE_TITLE",
+					"MODULE_SONOS_SIGNUP_BODY": "Du behöver ett RadioPlay-konto för att ansluta din SONOS till RadioPlay. Fyll i uppgifterna nedan för att skapa ditt egna konto. Har du redan ett RadioPlay-konto? Gå bara tillbaka till SONOS-appen och följ instruktionerna.",
+					"BACKEND_INVALID_GENDER_TITLE": "BACKEND_INVALID_GENDER_TITLE",
+					"BACKEND_SIGNUP_INVALID_GENDER_MESSAGE": "BACKEND_SIGNUP_INVALID_GENDER_MESSAGE",
+					"BACKEND_PLAYLIST_NOT_FOUND_TITLE": "BACKEND_PLAYLIST_NOT_FOUND_TITLE",
+					"TRACK_HISTORY_DATE": "Datum:",
+					"PROFILE_PASSWORD_OLD_PLACEHOLDER": "Lösenord",
+					"BACKEND_INVALID_OLD_PASSWORD_MESSAGE": "BACKEND_INVALID_OLD_PASSWORD_MESSAGE",
+					"SIGN_UP_EMAIL_PLACEHOLDER": "E-post",
+					"MODULE_SONOS_SIGNUP_SUBMIT_BUTTON": "Skapa konto",
+					"BACKEND_SONOS_LINK_CODE_NOT_FOUND_TITLE": "BACKEND_SONOS_LINK_CODE_NOT_FOUND_TITLE",
+					"STATION_HERO_PLAY": "Lyssna live",
+					"BACKEND_FORM_NOT_FOUND_MESSAGE": "BACKEND_FORM_NOT_FOUND_MESSAGE",
+					"ARTICLE_FORM_SUBMIT_ERROR_BODY": "Något gick fel!",
+					"BACKEND_ITEM_NOT_FOUND_TITLE": "BACKEND_ITEM_NOT_FOUND_TITLE",
+					"SETTINGS_GENDER_FEMALE": "Kvinna",
+					"SIGN_UP_HEADER": "Skapa konto",
+					"NEW_EMAIL_HEADER": "Byte av e-post",
+					"BACKEND_INVALID_USER_SETTING_FORMAT_MESSAGE": "BACKEND_INVALID_USER_SETTING_FORMAT_MESSAGE",
+					"RESET_PASSWORD_FEEDBACK_SUCCESS_HEADER": "Klart!",
+					"SETTINGS_GENDER_MALE": "Man",
+					"FOOTER_APP_HEADER": "Skaffa RadioPlay-appen",
+					"POD_CATEGORY_HERO_FOLLOW": "Följ pod",
+					"COMMON_OK": "OK",
+					"BACKEND_INVALID_INPUT_TITLE": "BACKEND_INVALID_INPUT_TITLE",
+					"HEADER_NAVIGATION_LOGIN": "Logga in\u002FSkapa Konto",
+					"USER_ALREADY_EXISTS_TITLE": "Fel",
+					"ARTICLE_FORM_SELECT_DEFAULT": "Välj...",
+					"EPG_HEADER": "Idag",
+					"RESET_EMAIL_FEEDBACK_SUCCESS_HEADER": "Klart!",
+					"SIGN_UP_PASSWORD_PLACEHOLDER": "Lösenord",
+					"PROFILE_PASSWORD": "Lösenord:",
+					"PLAYER_NEXT": "Nästa:",
+					"TRACK_HISTORY_LOAD_PREVIOUS": "Visa tidigare låtar",
+					"BACKEND_SIGNUP_INVALID_BIRTHDATE_MESSAGE": "BACKEND_SIGNUP_INVALID_BIRTHDATE_MESSAGE",
+					"FOOTER_GOOGLEPLAY": "Ladda ner vår Android app",
+					"SIGN_UP_AGE_PLACEHOLDER": "Ålder",
+					"BACKEND_INVALID_EMAIL_MESSAGE": "BACKEND_INVALID_EMAIL_MESSAGE",
+					"BACKEND_FORBIDDEN_IP_TITLE": "BACKEND_FORBIDDEN_IP_TITLE",
+					"BACKEND_HISTORY_INVALID_TYPE_TITLE": "BACKEND_HISTORY_INVALID_TYPE_TITLE",
+					"ARTICLE_FORM_DATEPICKER_DEFAULT_MONTH": "Välj månad...",
+					"INVALID_EMAIL_ADDRESS_MESSAGE": "Fel e-post.",
+					"SETTINGS_COMMON_ERROR_BODY": "Något gick fel.",
+					"COMMON_MONTH_10": "Oktober",
+					"MODULE_SONOS_CONNECT_LOGIN_SUBMIT_BUTTON": "Logga in",
+					"PLAYER_PREVIOUS_TRACKS": "Föregående låtar",
+					"TRACK_HISTORY_LOAD_LATER": "Visa senare låtar",
+					"FOOTER_PUBLISHER_NAME": "Staffan Rosell",
+					"LOGOUT_BUTTON_CANCEL": "Nej, håll mig inloggad",
+					"SIGN_UP_LEGAL_LINK_URL": "\u002Fom\u002Fanvandarvillkor",
+					"POD_CATEGORY_HERO_PLAY": "Lyssna nu",
+					"BACKEND_SIGNUP_INVALID_POSTAL_CODE_FORMAT_TITLE": "BACKEND_SIGNUP_INVALID_POSTAL_CODE_FORMAT_TITLE",
+					"NEW_PASSWORD_HEADER": "Byt lösenord",
+					"NEW_PASSWORD_TITLE": "Byt lösenord - RadioPlay",
+					"COMMON_MONTH_11": "November",
+					"BACKEND_UID_ALREADY_PAIRED_TITLE": "BACKEND_UID_ALREADY_PAIRED_TITLE",
+					"ARTICLE_FORM_SUBMIT_SUCCESS_BODY": "Skickat!",
+					"BACKEND_INVALID_BIRTHDATE_TITLE": "BACKEND_INVALID_BIRTHDATE_TITLE",
+					"BACKEND_STATION_CATEGORY_NOT_FOUND_MESSAGE": "BACKEND_STATION_CATEGORY_NOT_FOUND_MESSAGE",
+					"ARTICLE_FORM_VALIDATE_SELECT": "Välj ett alternativ.",
+					"BACKEND_INVALID_LANGUAGE_MESSAGE": "BACKEND_INVALID_LANGUAGE_MESSAGE",
+					"NEW_PASSWORD_FEEDBACK_SUCCESS_BODY": "Lösenordet är nu bytt.",
+					"ARTICLE_FORM_VALIDATE_INPUT": "Fyll i det här fältet.",
+					"BACKEND_FORM_DATA_NOT_VALID_MESSAGE": "BACKEND_FORM_DATA_NOT_VALID_MESSAGE",
+					"PLAYER_ON_NAVIGATE": "Är du säker på att du vill lämna sidan? Musiken kommer att sluta spela.",
+					"ARTICLE_FORM_VALIDATE_DATEPICKER": "Fyll i datum.",
+					"COMMON_MONTH_12": "December",
+					"BACKEND_HISTORY_OBJECT_NOT_FOUND_MESSAGE": "BACKEND_HISTORY_OBJECT_NOT_FOUND_MESSAGE",
+					"BACKEND_SIGNUP_USER_ALREADY_EXISTS_TITLE": "BACKEND_SIGNUP_USER_ALREADY_EXISTS_TITLE",
+					"MODULE_SONOS_CONNECT_CONNECTED_TEXT": "Grattis! Ditt konto är nu ihopkopplat med SONOS. Stäng ner fönstret och gå tillbaka till SONOS applikationen.",
+					"LOGOUT_BUTTON_OK": "Ja, logga ut",
+					"BACKEND_USER_ALREADY_EXISTS_MESSAGE": "Din e-post är redan registrerad försök istället att logga in.  ",
+					"NEW_EMAIL_BUTTON": "Byt epostadress",
+					"NEW_PASSWORD_PASSWORD_PLACEHOLDER": "Lösenord",
+					"BACKEND_HISTORY_INVALID_DATE_MESSAGE": "BACKEND_HISTORY_INVALID_DATE_MESSAGE",
+					"BACKEND_SIGNUP_ERROR_MESSAGE": "BACKEND_SIGNUP_ERROR_MESSAGE",
+					"PLAYER_CURRENT_CLIP": "Nu spelas",
+					"BACKEND_FORM_DISABLED_MESSAGE": "BACKEND_FORM_DISABLED_MESSAGE",
+					"BACKEND_USER_CODE_NOT_FOUND_MESSAGE": "BACKEND_USER_CODE_NOT_FOUND_MESSAGE",
+					"FOOTER_APPSTORE_LINK": "https:\u002F\u002Fitunes.apple.com\u002Fse\u002Fapp\u002Fradio-play\u002Fid551552218?ls=1&mt=8",
+					"BACKEND_USER_NOT_FOUND_MESSAGE": "Något gick fel, försök igen. Om problemet kvarstår får du gärna höra av dig till support@radioplay.se",
+					"BACKEND_USER_NOT_LOGGED_IN_MESSAGE": "Du är inte inloggad. Logga in och försök igen.",
+					"PLAYER_NEXT_CLIPS": "I kö",
+					"BACKEND_UID_NOT_FOUND_TITLE": "BACKEND_UID_NOT_FOUND_TITLE",
+					"HEADER_NAVIGATION_MY_RADIOPLAY": "Mitt RadioPlay",
+					"NEW_EMAIL_FEEDBACK_SUCCESS_BODY": "Din epost är nu uppdaterad.",
+					"PROFILE_FEEDBACK_ERROR_PASSWORD_HEADER": "Något gick fel!",
+					"BACKEND_INVALID_POSTAL_CODE_MESSAGE": "BACKEND_INVALID_POSTAL_CODE_MESSAGE",
+					"ADS_SECONDS_LEFT": "{seconds} sekunder kvar",
+					"RESET_PASSWORD_BODY": "Ange din e-post så skickar vi ett mail med vidare instruktioner.",
+					"ADS_ARTIST": "Mer musik kommer snart",
+					"FOOTER_NAVIGATION_10_URL": "",
+					"BACKEND_INVALID_PASSWORD_MESSAGE": "Fel lösenord.",
+					"NEW_EMAIL_TITLE": "Byte av e-post - RadioPlay",
+					"BACKEND_ERROR_TITLE": "BACKEND_ERROR_TITLE",
+					"BACKEND_MODULE_NOT_FOUND_MESSAGE": "BACKEND_MODULE_NOT_FOUND_MESSAGE",
+					"SIGN_UP_TITLE": "Skapa konto - RadioPlay",
+					"SIGN_UP_LEGAL": "Genom att registrera dig godkänner du våra {link}",
+					"BACKEND_LOGIN_FAILED_TITLE": "BACKEND_LOGIN_FAILED_TITLE",
+					"NEW_PASSWORD_BUTTON": "Skicka",
+					"SIDETABS_HEADER": "Mitt RadioPlay",
+					"SIGN_UP_SUBMIT_BUTTON": "Skapa konto",
+					"BACKEND_INVALID_EMAIL_ADDRESS_TITLE": "Fel",
+					"SIGNATURE_EXPIRED_TITLE": "Fel",
+					"BACKEND_HISTORY_CREDENTIALS_ERROR_MESSAGE": "BACKEND_HISTORY_CREDENTIALS_ERROR_MESSAGE",
+					"FOOTER_NAVIGATION_11_URL": "",
+					"BACKEND_INVALID_USER_SETTING_KEY_MESSAGE": "BACKEND_INVALID_USER_SETTING_KEY_MESSAGE",
+					"BACKEND_UID_USER_MISSMATCH_MESSAGE": "BACKEND_UID_USER_MISSMATCH_MESSAGE",
+					"LOGOUT_BODY": "Är du säker på att du vill logga ut från RadioPlay?",
+					"SIGN_UP_GENDER_PLACEHOLDER": "Välj kön...",
+					"FOOTER_PUBLISHER": "Ansvarig utgivare {name}",
+					"LOGIN_BODY": "Logga in och få en mer personlig upplevelse.",
+					"FOOTER_NAVIGATION_01_URL": "\u002Fom\u002Fregler",
+					"FOOTER_NAVIGATION_12_URL": "",
+					"MODULE_IFRAME_LOADING_TEXT": "Laddar",
+					"SIGNUP_USER_ALREADY_EXISTS_MESSAGE": "Det finns redan ett konto med det lösenordet",
+					"INVALID_SIGNATURE_MESSAGE": "Något gick fel, försök igen. Om problemet kvarstår får du gärna höra av dig till support@radioplay.se",
+					"HEADER_NAVIGATION_STATIONS": "Radiostationer",
+					"COMMON_HTML_TITLE": "RadioPlay",
+					"MODULE_SONOS_SIGNUP_HEADER": "Skapa RadioPlay-konto",
+					"BACKEND_SIGNUP_MISSING_PASSWORD_MESSAGE": "BACKEND_SIGNUP_MISSING_PASSWORD_MESSAGE",
+					"BACKEND_PERMISSION_DENIED_TITLE": "BACKEND_PERMISSION_DENIED_TITLE",
+					"FOOTER_NAVIGATION_02_URL": "\u002Fom\u002Ffrekvenser",
+					"ARTICLE_FORM_SUBMIT_ERROR_HEADER": "Fel",
+					"BACKEND_SIGNUP_GEOIP_FAILED_TITLE": "BACKEND_SIGNUP_GEOIP_FAILED_TITLE",
+					"BACKEND_STATION_NOT_FOUND_TITLE": "BACKEND_STATION_NOT_FOUND_TITLE",
+					"COOKIE_BAR_BUTTON": "Okej, jag förstår",
+					"BACKEND_CATEGORY_NOT_FOUND_TITLE": "BACKEND_CATEGORY_NOT_FOUND_TITLE",
+					"BACKEND_LOGIN_REQUIRED_TITLE": "BACKEND_LOGIN_REQUIRED_TITLE",
+					"MODULE_SONOS_COUNTRY_PICKER_HEADER": "Choose Country",
+					"BACKEND_MODULE_REQUIRES_LOGIN_TITLE": "BACKEND_MODULE_REQUIRES_LOGIN_TITLE",
+					"SIGNUP_ERROR_TITLE": "Fel",
+					"BACKEND_INVALID_TIME_PLAYED_MESSAGE": "BACKEND_INVALID_TIME_PLAYED_MESSAGE",
+					"BACKEND_INVALID_DATE_TITLE": "BACKEND_INVALID_DATE_TITLE",
+					"LOGIN_EMAIL_PLACEHOLDER": "E-post",
+					"BACKEND_INVALID_PLAYLIST_ID_FORMAT_TITLE": "BACKEND_INVALID_PLAYLIST_ID_FORMAT_TITLE",
+					"NEW_EMAIL_DESCRIPTION": "Fortsätt för att byta din mailadress.",
+					"BACKEND_EMAIL_TEXT_NOT_FOUND_MESSAGE": "BACKEND_EMAIL_TEXT_NOT_FOUND_MESSAGE",
+					"ARTICLE_FORM_VALIDATE_CHECKBOX": "Du måste kryssa i den här rutan.",
+					"FOOTER_NAVIGATION_03_URL": "\u002Fom\u002Fanvandarvilkor",
+					"PLAYER_SAVE": "Spara",
+					"USER_NOT_LOGGED_IN_TITLE": "Fel",
+					"BACKEND_SIGNATURE_EXPIRED_MESSAGE": "Något gick fel, försök igen. Om problemet kvarstår får du gärna höra av dig till support@radioplay.se",
+					"BACKEND_ERROR_CREATING_ZENDESK_TICKET_MESSAGE": "BACKEND_ERROR_CREATING_ZENDESK_TICKET_MESSAGE",
+					"PROFILE_NEW_EMAIL_PLACEHOLDER": "Ny epost",
+					"BACKEND_ITEM_TYPE_INVALID_MESSAGE": "BACKEND_ITEM_TYPE_INVALID_MESSAGE",
+					"BACKEND_EXPIRED_SIGNATURE_MESSAGE": "BACKEND_EXPIRED_SIGNATURE_MESSAGE",
+					"USER_INFO_FEEDBACK_SUCCESS_BODY": "Dina inställningar är sparade",
+					"USER_NOT_FOUND_TITLE": "Fel",
+					"FOOTER_NAVIGATION_04_URL": "\u002Fom\u002Fcookies",
+					"PLAYER_PREVIOUS_BUTTON": "Föregående",
+					"SETTINGS_COMMON_ERROR_HEADER": "Fel",
+					"NOTIFICATIONS_FEEDBACK_ERROR_BODY": "Något gick fel!",
+					"BACKEND_MODULE_NOT_PAGINATABLE_MESSAGE": "BACKEND_MODULE_NOT_PAGINATABLE_MESSAGE",
+					"RESET_PASSWORD_EMAIL_PLACEHOLDER": "E-post",
+					"MODULE_SONOS_CONNECT_RETURN_BUTTON_TEXT": "Tillbaka till din SONOS app",
+					"BACKEND_INVALID_GENDER_MESSAGE": "BACKEND_INVALID_GENDER_MESSAGE",
+					"FOOTER_HELP_BODY": "Har du frågor om Radio? Vill du ha hjälp att kunna lyssna? Vi har listat de vanligaste frågorna och hittar du inte det du letar efter kan du enkelt skicka in din egen fråga.",
+					"BACKEND_INVALID_ARGUMENTS_TITLE": "BACKEND_INVALID_ARGUMENTS_TITLE",
+					"BACKEND_PLAYLIST_NOT_FOUND_MESSAGE": "BACKEND_PLAYLIST_NOT_FOUND_MESSAGE",
+					"INVALID_PASSWORD_TITLE": "Fel",
+					"FOOTER_NAVIGATION_05_URL": "http:\u002F\u002Fbauermedia.se\u002F",
+					"FOOTER_NAVIGATION_09_TEXT": "",
+					"FOOTER_HELP_BUTTON_URL": "https:\u002F\u002Fradioplay.zendesk.com\u002Fhc",
+					"COMMON_LIVESIGN": "Live",
+					"LOGIN_FEEDBACK_ERROR_BODY": "Användarnam och\u002Feller lösenord är felaktiga",
+					"FOOTER_NAVIGATION_06_URL": "\u002Fom\u002Fsociala-medier",
+					"BACKEND_SONOS_LINK_CODE_NOT_FOUND_MESSAGE": "BACKEND_SONOS_LINK_CODE_NOT_FOUND_MESSAGE",
+					"FOOTER_NAVIGATION_08_TEXT": "",
+					"BACKEND_SIGNUP_INVALID_GEO_COUNTRY_TITLE": "BACKEND_SIGNUP_INVALID_GEO_COUNTRY_TITLE",
+					"PROFILE_AGE_PLACEHOLDER": "Ålder",
+					"ARTICLE_FORM_VALIDATE_RADIOBUTTONS": "Välj ett alternativ.",
+					"BACKEND_ITEM_NOT_FOUND_MESSAGE": "BACKEND_ITEM_NOT_FOUND_MESSAGE",
+					"MODULE_SONOS_CONNECT_HEADER": "Anslut till SONOS",
+					"PROFILE_AGE_LABEL": "Ålder",
+					"BACKEND_INVALID_SIGNATURE_TITLE": "Fel",
+					"ARTICLE_FORM_SUBMIT_SUCCESS_HEADER": "Tack!",
+					"FOOTER_NAVIGATION_07_URL": "\u002Fom\u002Fradioplay",
+					"BACKEND_SIGNUP_INVALID_GENDER_TITLE": "BACKEND_SIGNUP_INVALID_GENDER_TITLE",
+					"FOOTER_NAVIGATION_07_TEXT": "Om RadioPlay",
+					"PROFILE_REGION_PLACEHOLDER": "Välj stad",
+					"MODULE_SONOS_CONNECT_TEXT": "Du är inloggad som {{username}}. Vill du koppla det kontot till SONOS?",
+					"NEW_PASSWORD_FEEDBACK_SUCCESS_HEADER": "Lösenordsbyte",
+					"COMMON_MONTH_1": "Januari",
+					"BACKEND_INVALID_INPUT_MESSAGE": "BACKEND_INVALID_INPUT_MESSAGE",
+					"PROFILE_REGION_LABEL": "Region",
+					"BACKEND_INVALID_OLD_PASSWORD_TITLE": "BACKEND_INVALID_OLD_PASSWORD_TITLE",
+					"USER_ALREADY_EXISTS_MESSAGE": "Din e-post är redan registrerad försök istället att logga in.  ",
+					"FOOTER_NAVIGATION_08_URL": "",
+					"FOOTER_NAVIGATION_06_TEXT": "Sociala Medier",
+					"BACKEND_FORM_NOT_FOUND_TITLE": "BACKEND_FORM_NOT_FOUND_TITLE",
+					"COMMON_MONTH_2": "Februari",
+					"RESET_PASSWORD_FEEDBACK_ERROR_BODY": "Kolla att mailadressen stämmer och prova sedan igen."
+				},
+				"StationStore": {
+					"station": {
+						"1": {
+							"has_onair": true,
+							"hero_override_link": "http:\u002F\u002Fwww.radioplay.se\u002Fmixmegapol\u002Fkampanj\u002Fsommarkalas",
+							"name": "Mix Megapol",
+							"hero_override_image": "\u002Fimg\u002Foriginal\u002F12c03c1913948fcbf3380d6f74121a9a.jpg",
+							"tagline": "Mer Musik, Bättre Blandning",
+							"url": "\u002Fmixmegapol",
+							"hero_wide_override_image": "\u002Fimg\u002Foriginal\u002F5f39fcad45c96cd95f85c6f5e236e37e.jpg",
+							"has_stream_onair": false,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.227\u002Fmix_se_aacp?ua=WEB",
+								"flv": "http:\u002F\u002F194.16.21.227\u002Fmix_se_aacp?type=.flv&ua=WEB",
+								"mp3": "http:\u002F\u002F194.16.21.227\u002Fmix_se_mp3?ua=WEB"
+							},
+							"zone_alias_suffix": null,
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F1601256dad9b426d82e736a06aaf2946.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fc1ddaa14afae65a616b41259397847c8.jpg",
+							"zone_identifiers": {
+								"preroll": {
+									"audio": "se_web_audiopreroll_fm1",
+									"companion": "se_web_displaypreroll_fm1"
+								}
+							},
+							"has_epg": true,
+							"type": "station",
+							"id": 1,
+							"image": "\u002Fimg\u002Foriginal\u002Fb277351b417ff4057c21f399134e4387.png",
+							"description": "Mer Musik, Bättre Blandning"
+						},
+						"2": {
+							"has_onair": true,
+							"hero_override_link": "http:\u002F\u002Fwww.radioplay.se\u002Fmixmegapolgoteborg\u002Fkampanj\u002Fsommarkalas",
+							"name": "Mix Megapol Göteborg",
+							"hero_override_image": "\u002Fimg\u002Foriginal\u002F227697777b50a2babef4b302a7100aee.jpg",
+							"tagline": "Mer Musik, Bättre Blandning",
+							"url": "\u002Fmixmegapolgoteborg",
+							"hero_wide_override_image": "\u002Fimg\u002Foriginal\u002Fa834ba5dbdfd97980451fb1173e5d109.jpg",
+							"has_stream_onair": false,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.227\u002Fmix_gbg_se_aacp?ua=WEB",
+								"flv": "http:\u002F\u002F194.16.21.227\u002Fmix_gbg_se_aacp?type=.flv&ua=WEB",
+								"mp3": "http:\u002F\u002F194.16.21.227\u002Fmix_gbg_se_mp3?ua=WEB"
+							},
+							"zone_alias_suffix": null,
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fdf31383f1f948ffa8b603853f6eb3db5.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F98b2604808ff59dd947ab7f7e497a357.jpg",
+							"zone_identifiers": {
+								"preroll": {
+									"audio": "se_web_audiopreroll_fm2",
+									"companion": "se_web_displaypreroll_fm2"
+								}
+							},
+							"has_epg": true,
+							"type": "station",
+							"id": 2,
+							"image": "\u002Fimg\u002Foriginal\u002F6b9287d35fac4c916bd676f246d9d023.png",
+							"description": "Mer Musik, Bättre Blandning"
+						},
+						"4": {
+							"has_onair": true,
+							"hero_override_link": null,
+							"name": "Rockklassiker",
+							"hero_override_image": null,
+							"tagline": "Tidernas Bästa Rock!",
+							"url": "\u002Frockklassiker",
+							"hero_wide_override_image": null,
+							"has_stream_onair": false,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.227\u002Frock_se_aacp?ua=WEB",
+								"flv": "http:\u002F\u002F194.16.21.227\u002Frock_se_aacp?type=.flv&ua=WEB",
+								"mp3": "http:\u002F\u002F194.16.21.227\u002Frock_se_mp3?ua=WEB"
+							},
+							"zone_alias_suffix": null,
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F270302889d23c64a92adf432a7bb341f.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fa32dbef0ae5d2bcc75e53a2da41a4a12.jpg",
+							"zone_identifiers": {
+								"preroll": {
+									"audio": "se_web_audiopreroll_fm4",
+									"companion": "se_web_displaypreroll_fm4"
+								}
+							},
+							"has_epg": true,
+							"type": "station",
+							"id": 4,
+							"image": "\u002Fimg\u002Fstations\u002Fse\u002Frockklassiker.png",
+							"description": "Tidernas Bästa Rock!"
+						},
+						"6": {
+							"has_onair": true,
+							"hero_override_link": null,
+							"name": "Vinyl FM",
+							"hero_override_image": null,
+							"tagline": "Största Hitsen Från Tre Decennier",
+							"url": "\u002Fvinylfm",
+							"hero_wide_override_image": null,
+							"has_stream_onair": false,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.227\u002Fvinyl_se_aacp?ua=WEB",
+								"flv": "http:\u002F\u002F194.16.21.227\u002Fvinyl_se_aacp?type=.flv&ua=WEB",
+								"mp3": "http:\u002F\u002F194.16.21.227\u002Fvinyl_se_mp3?ua=WEB"
+							},
+							"zone_alias_suffix": null,
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F8fc83884d0cbd43c2c9c909225fdeea1.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Ffef310e9b79788e3aa526546d2f4dbd9.jpg",
+							"zone_identifiers": {
+								"preroll": {
+									"audio": "se_web_audiopreroll_fm6",
+									"companion": "se_web_displaypreroll_fm6"
+								}
+							},
+							"has_epg": true,
+							"type": "station",
+							"id": 6,
+							"image": "\u002Fimg\u002Foriginal\u002Fc7b9f217115c93682f82306080c83d7f.png",
+							"description": null
+						},
+						"49": {
+							"has_onair": true,
+							"hero_override_link": "http:\u002F\u002Fwww.radioplay.se\u002Fnrj\u002Fkampanj\u002Fthequeensofnrj",
+							"name": "NRJ",
+							"hero_override_image": "\u002Fimg\u002Foriginal\u002Fbd0a6d276ed877b23d88a53029c5eb6a.jpg",
+							"tagline": "Alla Hits Nonstop!",
+							"url": "\u002Fnrj",
+							"hero_wide_override_image": "\u002Fimg\u002Foriginal\u002F4bf4129287ef7f8b2d1abfe8d5202a5c.jpg",
+							"has_stream_onair": false,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.227\u002Fnrj_se_aacp?ua=WEB",
+								"flv": "http:\u002F\u002F194.16.21.227\u002Fnrj_se_aacp?type=.flv&ua=WEB",
+								"mp3": "http:\u002F\u002F194.16.21.227\u002Fnrj_se_mp3?ua=WEB"
+							},
+							"zone_alias_suffix": null,
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F60d8a5b7c954a48253e9bbd6c60f1417.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F126c18389f5c6a42d81d9fadf2e3b80c.jpg",
+							"zone_identifiers": {
+								"preroll": {
+									"audio": "se_web_audiopreroll_fm49",
+									"companion": "se_web_displaypreroll_fm49"
+								}
+							},
+							"has_epg": true,
+							"type": "station",
+							"id": 49,
+							"image": "\u002Fimg\u002Foriginal\u002F74912a94a15d5a3693d854c891422f71.png",
+							"description": "Vi älskar ny musik, alla hits non-stop. Världens största hits!"
+						},
+						"103": {
+							"has_onair": true,
+							"hero_override_link": null,
+							"name": "Gold FM",
+							"hero_override_image": null,
+							"tagline": "Ger dig de största hitsen från tre decennier.",
+							"url": "\u002Fgoldfm",
+							"hero_wide_override_image": null,
+							"has_stream_onair": false,
+							"streams": {
+								"aac": "http:\u002F\u002Fgoldfm.nu:8082\u002Fgoldfm_aacp?ua=WEB",
+								"mp3": "http:\u002F\u002Fgoldfm.nu:8082\u002Fgoldfm_mp3?ua=WEB"
+							},
+							"zone_alias_suffix": null,
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fed0bf46151f2c37fc221c4f3eb9de6ae.png",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F38680eec75fad02b8d28c504038a9f8a.png",
+							"zone_identifiers": {
+								"preroll": {
+									"audio": "se_web_audiopreroll_fm103",
+									"companion": "se_web_displaypreroll_fm103"
+								}
+							},
+							"has_epg": true,
+							"type": "station",
+							"id": 103,
+							"image": "\u002Fimg\u002Foriginal\u002F38680eec75fad02b8d28c504038a9f8a.png",
+							"description": "Ger dig de största hitsen från tre decennier. Önska din favorit genom att maila oss på studion@goldfm.nu."
+						},
+						"106": {
+							"has_onair": true,
+							"hero_override_link": null,
+							"name": "Svensk Pop",
+							"hero_override_image": null,
+							"tagline": "En ny station!",
+							"url": "\u002Fsvensk-pop",
+							"hero_wide_override_image": null,
+							"has_stream_onair": false,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.227\u002Fspop_se_aacp?ua=WEB",
+								"flv": "http:\u002F\u002F194.16.21.227\u002Fspop_se_aacp?type=.flv&ua=WEB",
+								"mp3": "http:\u002F\u002F194.16.21.227\u002Fspop_se_mp3?ua=WEB"
+							},
+							"zone_alias_suffix": null,
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Ffe2019d1f125fdce160ab03b560dbb16.png",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F68a1380ea67ad1c56f57622cb11161ce.png",
+							"zone_identifiers": {
+								"preroll": {
+									"audio": "se_web_audiopreroll_fm106",
+									"companion": "se_web_displaypreroll_fm106"
+								}
+							},
+							"has_epg": true,
+							"type": "station",
+							"id": 106,
+							"image": "\u002Fimg\u002Foriginal\u002F2c0cc1430a808454d99915f72c2fbb34.jpg",
+							"description": "En ny station!"
+						}
+					},
+					"playlist": {
+						"1": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Mix Megapol 90-tal",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fmix-megapol-90-tal",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#CF0019",
+								"text_color_primary_themed_inv": "#CF0019"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F78_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F78_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F3ba9af44305a125fcc69856f54ed2756.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fca97c9217bf64381a55e5279ea404167.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood78",
+									"companion": "se_web_displaymidroll_mood78"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood78",
+									"companion": "se_web_displaypreroll_mood78"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 1,
+							"image": "\u002Fimg\u002Foriginal\u002Fe6ed029261465390106960456a89de5b.png",
+							"description": "Mer Musik, Bättre Blandning!"
+						},
+						"3": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Feel Good",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Ffeel-good",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#763CAC",
+								"text_color_primary_themed_inv": "#763CAC"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F174_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F174_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F2dc1559148e80c7d52019dc0be620a3a.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fda9d75bac28b56dbb1ddc8aca02f25c9.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood174",
+									"companion": "se_web_displaymidroll_mood174"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood174",
+									"companion": "se_web_displaypreroll_mood174"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 3,
+							"image": "\u002Fimg\u002Fplaylist\u002F085.png",
+							"description": "Musik att må bra till!"
+						},
+						"5": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "00's Hits",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002F00-s-hits",
+							"hero_wide_override_image": null,
+							"style": null,
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F127_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F127_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F402451d581e91a3cbf04e3e09a00bee0.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F035b667c26971d1cd3a339cf8c0fd5e3.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood127",
+									"companion": "se_web_displaymidroll_mood127"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood127",
+									"companion": "se_web_displaypreroll_mood127"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 5,
+							"image": "\u002Fimg\u002Fplaylist\u002F13151_00s_hits.png",
+							"description": "De största låtarna från 2000-talet."
+						},
+						"8": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Mix Megapol Sverige Topp 30",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fmix-megapol-sverige-topp-30",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#CF0019",
+								"background_color_themed_inv": "#ffffff",
+								"text_color_primary_themed": "#ffffff",
+								"text_color_primary_themed_inv": "#CF0019"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F175_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F175_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fabb687c84c934ed58fe1246d43386d3b.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F04ec808dc472e0720ab0f64616abd821.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood175",
+									"companion": "se_web_displaymidroll_mood175"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood175",
+									"companion": "se_web_displaypreroll_mood175"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 8,
+							"image": "\u002Fimg\u002Foriginal\u002F6821d52cc0406de9ebed0d54375a0de9.png",
+							"description": "De 30 största låtarna just nu!\r\n"
+						},
+						"9": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Vinyl 80-tal",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fvinyl-80-tal",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#5A8692",
+								"text_color_primary_themed_inv": "#5A8692"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F113_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F113_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fea235e697b5de6b6235696f5b95d54ca.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F9fd42f6aa44b1a1ac6c73a8db0a7e29e.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood113",
+									"companion": "se_web_displaymidroll_mood113"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood113",
+									"companion": "se_web_displaypreroll_mood113"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 9,
+							"image": "\u002Fimg\u002Foriginal\u002F0491ed2d3b4e4799f82595746fd1bb4c.png",
+							"description": "De största låtarna från 80-talet!"
+						},
+						"17": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Classic Soul",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fclassic-soul",
+							"hero_wide_override_image": null,
+							"style": null,
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F77_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F77_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fd5f095ca124b17d7b4bd958ac220d527.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F52d69438048a6012de91e0c95ac2a77b.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood77",
+									"companion": "se_web_displaymidroll_mood77"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood77",
+									"companion": "se_web_displaypreroll_mood77"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 17,
+							"image": "\u002Fimg\u002Fplaylist\u002Fclassic_soul_184.png",
+							"description": "Bästa blandningen av Soul & RnB!"
+						},
+						"21": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "100% Prince",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fprince",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#473789",
+								"text_color_primary_themed_inv": "#473789"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F140_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F140_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F72dc3a873822726d9ac0d9f63ff58939.png",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fe9e7e2cb61be6dca15d7219c5113eba1.png",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood140",
+									"companion": "se_web_displaymidroll_mood140"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood140",
+									"companion": "se_web_displaypreroll_mood140"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 21,
+							"image": "\u002Fimg\u002Foriginal\u002Fda7241f79c42f43794f7674530665879.png",
+							"description": "RadioPlay hyllar Prince!\r\n"
+						},
+						"36": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Rockklassiker Ballads",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Frockklassiker-ballads",
+							"hero_wide_override_image": null,
+							"style": null,
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F129_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F129_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F3586b74b3951cf9d0740ee8c7ed1c11d.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F5d1c9533b11b15de09cc999569f2f7ed.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood129",
+									"companion": "se_web_displaymidroll_mood129"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood129",
+									"companion": "se_web_displaypreroll_mood129"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 36,
+							"image": "\u002Fimg\u002Fplaylist\u002F72311_rock_klassiker_ballads.png",
+							"description": "De största balladerna!\r\n"
+						},
+						"41": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Vinyl 60-tal",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fvinyl-60-tal",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#5A8692",
+								"text_color_primary_themed_inv": "#5A8692"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F123_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F123_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F11203a2a3a51b40fe448f78aa7777b94.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F6f166a6845dcc77d3c7149f0ce455386.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood123",
+									"companion": "se_web_displaymidroll_mood123"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood123",
+									"companion": "se_web_displaypreroll_mood123"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 41,
+							"image": "\u002Fimg\u002Foriginal\u002Fed2ba7a1873face1d58e42fc8dd63015.png",
+							"description": "De största låtarna från 60-talet."
+						},
+						"70": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Heart",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fheart",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#FA2836",
+								"text_color_primary_themed_inv": "#FA2836"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F162_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F162_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F93d9f3038ede2f11bcd99af94bbd1e90.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F04467d4983639f0176d073b5f25768b2.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood162",
+									"companion": "se_web_displaymidroll_mood162"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood162",
+									"companion": "se_web_displaypreroll_mood162"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 70,
+							"image": "\u002Fimg\u002Fplaylist\u002F115.png",
+							"description": "De bästa kärlekslåtarna!"
+						},
+						"88": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Vinyl Disco",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fvinyl-disco",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#5A8692",
+								"text_color_primary_themed_inv": "#5A8692"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F111_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F111_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "http:\u002F\u002Fwww.radioplay.se\u002Fimg\u002Foriginal\u002F252ab2abb3d91dc37570f3e24e9adfc4.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F978198b3661c5f344ae051971af6cb71.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood111",
+									"companion": "se_web_displaymidroll_mood111"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood111",
+									"companion": "se_web_displaypreroll_mood111"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 88,
+							"image": "\u002Fimg\u002Foriginal\u002F39e4e1d7ce881b539dbeb40b37d262f6.png",
+							"description": "Vinyl goes Disco!"
+						},
+						"102": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Vinyl 70-tal",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fvinyl-70-tal",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#5A8692",
+								"text_color_primary_themed_inv": "#5A8692"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F124_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F124_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fae038961d3b28bef3ee509f9a4f2d155.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fa93a16b187c90999bf6f52347293bf8a.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood124",
+									"companion": "se_web_displaymidroll_mood124"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood124",
+									"companion": "se_web_displaypreroll_mood124"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 102,
+							"image": "\u002Fimg\u002Foriginal\u002F0a04b7c9c9338b667e83b59a848ee070.png",
+							"description": "De största låtarna från 70-talet."
+						},
+						"117": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Radio 107,5 Eurodance",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002FRadio-1075-Eurodance",
+							"hero_wide_override_image": null,
+							"style": null,
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F117_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F117_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F388a3cc330b094d4279041f58b9f634d.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F0b4d402fddb3bade5dedcc390f10a4d0.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood117",
+									"companion": "se_web_displaymidroll_mood117"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood117",
+									"companion": "se_web_displaypreroll_mood117"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 117,
+							"image": "\u002Fimg\u002Foriginal\u002F6e0b85312acea7d1c04130e6d3ec5045.png",
+							"description": "Stockholms enda dansgolv!\r\n"
+						},
+						"145": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Run Nation Hits",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Frun-nation-hits",
+							"hero_wide_override_image": null,
+							"style": null,
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F177_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F177_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F5b411b5653d4e7be9c412ca401860a00.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fc09eb4a1d10e0e533d1491a05c7c4d70.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood177",
+									"companion": "se_web_displaymidroll_mood177"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood177",
+									"companion": "se_web_displaypreroll_mood177"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 145,
+							"image": "\u002Fimg\u002Fplaylist\u002F181.png",
+							"description": "Soundtrack till löpspåret!"
+						},
+						"187": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Schlagerstationen",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fschlagerstationen",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#cf0019",
+								"text_color_primary_themed_inv": "#cf0019"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F169_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F169_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fbfc5e614294504679aa4d43b366e9e3f.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fb88460e9768396d18e45df0867b9d903.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood169",
+									"companion": "se_web_displaymidroll_mood169"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood169",
+									"companion": "se_web_displaypreroll_mood169"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 187,
+							"image": "\u002Fimg\u002Foriginal\u002F4b4f18e13b3e31406e173dad97816b7a.png",
+							"description": "För dig som älskar schlager!"
+						},
+						"240": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "NRJ Älskar Rihanna!",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fnrj-alskar-rihanna",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#E2001A",
+								"text_color_primary_themed_inv": "#E2001A"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F184_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F184_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F05ffba150cb146d3dca7743e838c3358.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fbdfae80240f51a5ccbe603a92be4eacf.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood184",
+									"companion": "se_web_displaymidroll_mood184"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood184",
+									"companion": "se_web_displaypreroll_mood184"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 240,
+							"image": "\u002Fimg\u002Foriginal\u002Fd678cc766e3a07a67c86853e4436f9ed.jpg",
+							"description": "NRJ Älskar Rihanna! "
+						},
+						"276": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Mix Megapol 80-tal",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fmix-megapol-80-tal",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#CF0019",
+								"text_color_primary_themed_inv": "#CF0019"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F126_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F126_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Ff86acfaef83da3d8703030e9205f23d8.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F4a8e882b34adf1b38bbc9230992c7d87.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood126",
+									"companion": "se_web_displaymidroll_mood126"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood126",
+									"companion": "se_web_displaypreroll_mood126"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 276,
+							"image": "\u002Fimg\u002Foriginal\u002F5a95eec552cc9d8882c9f6c00177f65b.png",
+							"description": "De största låtarna från 80-talet."
+						},
+						"413": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Chill Out Music",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fchill-out-music",
+							"hero_wide_override_image": null,
+							"style": null,
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F189_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F189_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fdf49e593bf74a677a315e179c2a1b99b.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fe298637c18444eb3fc32c93c61ffb6f7.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood189",
+									"companion": "se_web_displaymidroll_mood189"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood189",
+									"companion": "se_web_displaypreroll_mood189"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 413,
+							"image": "\u002Fimg\u002Fplaylist\u002F12371_chill_out_music.png",
+							"description": "Ultimat för att slappna av!"
+						},
+						"430": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "The Voice of House",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fthe-voice-of-house",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#000000",
+								"text_color_primary_themed_inv": "#000000"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F186_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F186_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F3c088831ec405721a4481266cef4101b.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F2fddd27bf2c3ac49a73f85adebe196b7.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood186",
+									"companion": "se_web_displaymidroll_mood186"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood186",
+									"companion": "se_web_displaypreroll_mood186"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 430,
+							"image": "\u002Fimg\u002Foriginal\u002F7036d730adb984324940016c9e23bdb1.png",
+							"description": "Bästa housemusiken!"
+						},
+						"461": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "The Voice ",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fthevoice",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#000000",
+								"text_color_primary_themed_inv": "#000000"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F264_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F264_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F8ca9877494d870754970f409ce3b1085.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F61c79fa51520521ac08984efe4aae03f.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood264",
+									"companion": "se_web_displaymidroll_mood264"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood264",
+									"companion": "se_web_displaypreroll_mood264"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 461,
+							"image": "\u002Fimg\u002Foriginal\u002Fplaylist\u002Fb7d6d77157a71f52.png",
+							"description": ""
+						},
+						"466": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "The Coffee Shop",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fthe-coffee-shop",
+							"hero_wide_override_image": null,
+							"style": null,
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F263_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F263_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fd6cd9265e2fbcb4e724b83d56a59f89e.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F2b2f7a00875cd2c08e23daea324897f0.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood263",
+									"companion": "se_web_displaymidroll_mood263"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood263",
+									"companion": "se_web_displaypreroll_mood263"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 466,
+							"image": "\u002Fimg\u002Fplaylist\u002F51231_the_coffee_shop.png",
+							"description": "Bästa sättet att varva ner!"
+						},
+						"475": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Rockklassiker Live",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Frockklassiker-live",
+							"hero_wide_override_image": null,
+							"style": null,
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F291_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F291_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F5bc43075ba3600860230478518337a74.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fc3b4b9ffb906b834c57a511bdee6e603.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood291",
+									"companion": "se_web_displaymidroll_mood291"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood291",
+									"companion": "se_web_displaypreroll_mood291"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 475,
+							"image": "\u002Fimg\u002Fplaylist\u002F67234_rockklassiker_live.png",
+							"description": "Rock är bäst live!"
+						},
+						"541": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "NRJ Festivalsommar",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fnrj-festivalsommar",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#B40183",
+								"text_color_primary_themed_inv": "#B40183"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F412_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F412_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F0c2b620abd48de18de6a6f961abf2448.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fc62a9db1d2a32a079bea6131946f3ba9.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood412",
+									"companion": "se_web_displaymidroll_mood412"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood412",
+									"companion": "se_web_displaypreroll_mood412"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 541,
+							"image": "\u002Fimg\u002Foriginal\u002F456a84b422fb760076bd8f59b1f6601e.png",
+							"description": "NRJ är med på alla de största festivalerna!"
+						},
+						"543": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "NRJ FRESH ",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fnrj-fresh",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#E2001A",
+								"text_color_primary_themed_inv": "#E2001A"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F411_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F411_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F1d85d3f314284fb83eae844565c59ae2.png",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F5bfafd46dd19b29b8f7a84e96af31e15.png",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood411",
+									"companion": "se_web_displaymidroll_mood411"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood411",
+									"companion": "se_web_displaypreroll_mood411"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 543,
+							"image": "\u002Fimg\u002Foriginal\u002Fe22b9373df85f7c79c312aeaa7a2b9a3.png",
+							"description": "Vi älskar ny musik!"
+						},
+						"613": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Mötley Crüe Radio",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fmotley-crue-radio",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#02244F",
+								"text_color_primary_themed_inv": "#02244F"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F580_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F580_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F4923b26518a4e2ff160b1f6aab85dba9.png",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F60e4aac26fe411ac02b311812f3cfe61.png",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood580",
+									"companion": "se_web_displaymidroll_mood580"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood580",
+									"companion": "se_web_displaypreroll_mood580"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 613,
+							"image": "\u002Fimg\u002Foriginal\u002F6c74372368590adc0983a91a2b07a713.png",
+							"description": "Rockklassiker Hyllar Mötley Crüe!"
+						},
+						"667": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "2016 Hits",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002F2015-hits",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#8BA3D1",
+								"text_color_primary_themed_inv": "#8BA3D1"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F746_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F746_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fc09e8a9e01088535927bb02d1a8734f1.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F4ce4f6a6f1ce50aa238677a9f419ecc2.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood746",
+									"companion": "se_web_displaymidroll_mood746"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood746",
+									"companion": "se_web_displaypreroll_mood746"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 667,
+							"image": "\u002Fimg\u002Foriginal\u002Ff634eb86dd9c09c5c2f273ac96380532.jpg",
+							"description": "De största hitsen från 2016!"
+						},
+						"668": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Iron Maiden Radio",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Firon-maiden-radio",
+							"hero_wide_override_image": null,
+							"style": null,
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F747_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F747_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fb89655a8833401c787911cd0c1d18ab7.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F1af592322714116bb9ba0efff04aaf64.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood747",
+									"companion": "se_web_displaymidroll_mood747"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood747",
+									"companion": "se_web_displaypreroll_mood747"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 668,
+							"image": "\u002Fimg\u002Foriginal\u002Fplaylist\u002Faa6bbd68b9ba1bc0.jpg",
+							"description": "Rockklassiker hyllar Iron Maiden."
+						},
+						"679": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "NRJ WkndFestival!",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fnrj-wknd-festival",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#E2001A",
+								"text_color_primary_themed_inv": "#E2001A"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F748_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F748_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F2885ef9900536b239d063fcfc86b54da.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Ff57dbe1dd3c21c8bf0de1305990d22bf.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood748",
+									"companion": "se_web_displaymidroll_mood748"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood748",
+									"companion": "se_web_displaypreroll_mood748"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 679,
+							"image": "\u002Fimg\u002Foriginal\u002F973623dfd7df0079830b15a74335b1e0.png",
+							"description": "Nordens största EDM-festival!"
+						},
+						"680": {
+							"has_onair": true,
+							"hero_override_link": null,
+							"name": "Radio 107,5",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fradio-107-5",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#2EA57B",
+								"text_color_primary_themed_inv": "#2EA57B"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F749_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F749_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Ff46f7b43e6fed8a7cb622a71a7de2797.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F076caa4e9f3d0de0adb6cedd7ba8a7d0.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood749",
+									"companion": "se_web_displaymidroll_mood749"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood749",
+									"companion": "se_web_displaypreroll_mood749"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 680,
+							"image": "\u002Fimg\u002Foriginal\u002F5a3037cbcb63945fa0a97d15d4f59d8a.png",
+							"description": "Stockholms enda dansgolv."
+						},
+						"681": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "100 Dagar Sommar",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002F100-dagar-sommar",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#CF0019",
+								"text_color_primary_themed_inv": "#CF0019"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F750_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F750_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "http:\u002F\u002Fwww.radioplay.se\u002Fimg\u002Foriginal\u002F628503e35e9eaaad69a22595546dd47a.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fdcba432f18153c6e35689907720c5d13.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood750",
+									"companion": "se_web_displaymidroll_mood750"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood750",
+									"companion": "se_web_displaypreroll_mood750"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 681,
+							"image": "\u002Fimg\u002Foriginal\u002Ffcab696183d9a2021f5d92cc441e7574.png",
+							"description": ""
+						},
+						"682": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Mix Megapol Dansbandsfredag",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fmix-megapol-dansbandsfredag",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#CF0019",
+								"text_color_primary_themed_inv": "#CF0019"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F751_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F751_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "http:\u002F\u002Fwww.radioplay.se\u002Fimg\u002Foriginal\u002Fc6415d988e59a3af0b8e480ebaeeeb7a.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Ff9e9a6d379819d9e238c4e7347b33901.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood751",
+									"companion": "se_web_displaymidroll_mood751"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood751",
+									"companion": "se_web_displaypreroll_mood751"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 682,
+							"image": "\u002Fimg\u002Foriginal\u002F908a25090716efc65031087523dca271.png",
+							"description": "För dig som älskar dansband!"
+						},
+						"683": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Sweden Rock Radio",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fsweden-rock-radio",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#02244F",
+								"text_color_primary_themed_inv": "#02244F"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F752_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F752_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F07bc358dbcdd669b43a36553d59a9b77.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fe65519dd348647c5f89f31d1bcb0657a.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood752",
+									"companion": "se_web_displaymidroll_mood752"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood752",
+									"companion": "se_web_displaypreroll_mood752"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 683,
+							"image": "\u002Fimg\u002Foriginal\u002Fplaylist\u002F8b10a29a757d5a5a.png",
+							"description": "Den bästa blandning av artisterna från årets lineup!"
+						},
+						"684": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "NRJ Weekendburst",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fnrj-weekendburst",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#E2001A",
+								"text_color_primary_themed_inv": "#E2001A"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F753_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F753_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fd2a95d270b9447f11380a4afc155b234.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F8897981a0afc1af48f303012a223faac.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood753",
+									"companion": "se_web_displaymidroll_mood753"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood753",
+									"companion": "se_web_displaypreroll_mood753"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 684,
+							"image": "\u002Fimg\u002Foriginal\u002Fd4222e3b3fd5637d8973def955346d4b.png",
+							"description": "NRJ Weekendburst!"
+						},
+						"685": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "NRJ TOPP 100",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fnrj-topp-100",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#E2001A",
+								"text_color_primary_themed_inv": "#E2001A"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F754_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F754_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F60d8a5b7c954a48253e9bbd6c60f1417.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F126c18389f5c6a42d81d9fadf2e3b80c.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood754",
+									"companion": "se_web_displaymidroll_mood754"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood754",
+									"companion": "se_web_displaypreroll_mood754"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 685,
+							"image": "\u002Fimg\u002Foriginal\u002Fplaylist\u002Fde332616f4c57a57.jpg",
+							"description": "NRJ topp 100!"
+						},
+						"686": {
+							"has_onair": true,
+							"hero_override_link": "",
+							"name": "Mix Megapol Topp 1000",
+							"hero_override_image": null,
+							"tagline": null,
+							"url": "\u002Fmix-megapol-topp-1000",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#CF0019",
+								"background_color_themed_inv": "#ffffff",
+								"text_color_primary_themed": "#ffffff",
+								"text_color_primary_themed_inv": "#CF0019"
+							},
+							"has_stream_onair": true,
+							"streams": {
+								"aac": "http:\u002F\u002F194.16.21.232\u002F755_se_aacp",
+								"flv": "http:\u002F\u002F194.16.21.232\u002F755_se_aacp?type=.flv",
+								"mp3": ""
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F5bf07c32fda48d77843563241a399ba6.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F62f9d649c8d91aed7430233e706d8190.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_mood755",
+									"companion": "se_web_displaymidroll_mood755"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_mood755",
+									"companion": "se_web_displaypreroll_mood755"
+								}
+							},
+							"has_epg": false,
+							"type": "playlist",
+							"id": 686,
+							"image": "\u002Fimg\u002Foriginal\u002Fdc8c106b2f81abe06ffee08c28ecbf98.png",
+							"description": "Mer Musik, Bättre Blandning!"
+						}
+					}
+				},
+				"PodCategoryStore": {
+					"pod_category": {
+						"6": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F6.xml",
+							"hero_override_link": null,
+							"name": "Sporten Med Timell",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapol\u002Fsporten-med-timell",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#EC1A19",
+								"text_color_primary_themed_inv": "#EC1A19"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F82c60e75812c4e337f96cd7cf077025b.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fab2451f4e4ea0e45f87bcd3ad1b1d9d8.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory6",
+									"companion": "se_web_display_podcategory6"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory6",
+									"companion": "se_web_display_podcategory6"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory6",
+									"companion": "se_web_display_podcategory6"
+								}
+							},
+							"type": "pod_category",
+							"id": 6,
+							"image": "\u002Fimg\u002Fcropped\u002F0c4ebd5b55464730.jpg",
+							"description": "Anders levererar dagligen den färskaste rapporten från sportvärlden. "
+						},
+						"8": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F8.xml",
+							"hero_override_link": null,
+							"name": "Tornving",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapol\u002Ftornving",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#EC1A19",
+								"text_color_primary_themed_inv": "#EC1A19"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F942833ec42ea07c49950e4540a576a69.jpeg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fab2451f4e4ea0e45f87bcd3ad1b1d9d8.jpeg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory8",
+									"companion": "se_web_display_podcategory8"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory8",
+									"companion": "se_web_display_podcategory8"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory8",
+									"companion": "se_web_display_podcategory8"
+								}
+							},
+							"type": "pod_category",
+							"id": 8,
+							"image": "\u002Fimg\u002Fcropped\u002F6cdecf3f63948319.jpg",
+							"description": "Tornving förklarar."
+						},
+						"10": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F10.xml",
+							"hero_override_link": null,
+							"name": "Sjuk På Fel Jobb",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapol\u002Fsjuk-pa-fel-jobb",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#EC1A19",
+								"text_color_primary_themed_inv": "#EC1A19"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F82c60e75812c4e337f96cd7cf077025b.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fab2451f4e4ea0e45f87bcd3ad1b1d9d8.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory10",
+									"companion": "se_web_display_podcategory10"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory10",
+									"companion": "se_web_display_podcategory10"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory10",
+									"companion": "se_web_display_podcategory10"
+								}
+							},
+							"type": "pod_category",
+							"id": 10,
+							"image": "\u002Fimg\u002Fcropped\u002F0c4ebd5b55464730.jpg",
+							"description": "Varje tisdag ringer Anders Timell till en slumpvald arbetsplats och sjukskriver sig."
+						},
+						"16": {
+							"rss_url": null,
+							"hero_override_link": null,
+							"name": "Morrongänget",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapolgoteborg\u002Fmorronganget",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#CF0019",
+								"text_color_primary_themed_inv": "#CF0019"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F98a8a77b3be4317891565a5917fd10b3.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F0b5ef2d4f56d6110c44019b200584cce.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory16",
+									"companion": "se_web_display_podcategory16"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory16",
+									"companion": "se_web_display_podcategory16"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory16",
+									"companion": "se_web_display_podcategory16"
+								}
+							},
+							"type": "pod_category",
+							"id": 16,
+							"image": "\u002Fimg\u002Fcropped\u002F5c81f9ce4031a595.jpg",
+							"description": ""
+						},
+						"18": {
+							"rss_url": null,
+							"hero_override_link": null,
+							"name": "Luringen",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapolgoteborg\u002Fluringen",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#CF0019",
+								"text_color_primary_themed_inv": "#CF0019"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F86d9e37209816e1f6f80037bfbf59f0d.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fcc496f2fb15cf4a5392bcb1b67fee6dd.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory18",
+									"companion": "se_web_display_podcategory18"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory18",
+									"companion": "se_web_display_podcategory18"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory18",
+									"companion": "se_web_display_podcategory18"
+								}
+							},
+							"type": "pod_category",
+							"id": 18,
+							"image": "\u002Fimg\u002Fcropped\u002F5b00362802811835.jpg",
+							"description": ""
+						},
+						"26": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F26.xml",
+							"hero_override_link": null,
+							"name": "Morronchocken",
+							"hero_override_image": null,
+							"url": "\u002Frockklassiker\u002Fmorronchocken",
+							"hero_wide_override_image": null,
+							"style": null,
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F9f62c73b9f5a910cef53a6cf6d15275d.png",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F4b1a3978e56ed70223c4cebfc7c70c9f.png",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory26",
+									"companion": "se_web_display_podcategory26"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory26",
+									"companion": "se_web_display_podcategory26"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory26",
+									"companion": "se_web_display_podcategory26"
+								}
+							},
+							"type": "pod_category",
+							"id": 26,
+							"image": "\u002Fimg\u002Fcropped\u002Fee36806ca7686d57.jpg",
+							"description": "Morronens busringning, alltid 08:10"
+						},
+						"27": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F27.xml",
+							"hero_override_link": null,
+							"name": "Filmfredag Med Ronny Svensson",
+							"hero_override_image": null,
+							"url": "\u002Frockklassiker\u002Ffilmfredag-med-ronny-svensson",
+							"hero_wide_override_image": null,
+							"style": null,
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F495fbf3d2f3128c78136b43bd9d8dc5e.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F5939f7fc0075d7611b09481ebc797bd2.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory27",
+									"companion": "se_web_display_podcategory27"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory27",
+									"companion": "se_web_display_podcategory27"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory27",
+									"companion": "se_web_display_podcategory27"
+								}
+							},
+							"type": "pod_category",
+							"id": 27,
+							"image": "\u002Fimg\u002Fcropped\u002F60fcdd0c13656c9a.jpg",
+							"description": "Ronny Svensson tittar in varje fredagmorgon och tipsar om de hetaste filmerna just nu."
+						},
+						"28": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F28.xml",
+							"hero_override_link": null,
+							"name": "Morronrock",
+							"hero_override_image": null,
+							"url": "\u002Frockklassiker\u002Flyssnarnas-favoriter",
+							"hero_wide_override_image": null,
+							"style": null,
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F99d91f75901321f83d148f5969661bc8.png",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F139b88756a1b79ccb90a4bbe4b31b226.png",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory28",
+									"companion": "se_web_display_podcategory28"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory28",
+									"companion": "se_web_display_podcategory28"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory28",
+									"companion": "se_web_display_podcategory28"
+								}
+							},
+							"type": "pod_category",
+							"id": 28,
+							"image": "\u002Fimg\u002Fcropped\u002F064741ba456525d4.jpg",
+							"description": "De bästa klippen från Morronrock."
+						},
+						"68": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F68.xml",
+							"hero_override_link": null,
+							"name": "Rockreporter Andreas Carlsson",
+							"hero_override_image": null,
+							"url": "\u002Frockklassiker\u002Frockreporter-andreas-carlsson",
+							"hero_wide_override_image": null,
+							"style": null,
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F65efaabfeac6feefb8115126e2478643.png",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fa05d43e7570c194ef9739775355d7a1a.png",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory68",
+									"companion": "se_web_display_podcategory68"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory68",
+									"companion": "se_web_display_podcategory68"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory68",
+									"companion": "se_web_display_podcategory68"
+								}
+							},
+							"type": "pod_category",
+							"id": 68,
+							"image": "\u002Fimg\u002Fcropped\u002F91b3e9c46be956f3.jpg",
+							"description": ""
+						},
+						"105": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F105.xml",
+							"hero_override_link": null,
+							"name": "Besök i Studion",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapol\u002Fgaster-hos-antligen-morgon",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#EC1A19",
+								"text_color_primary_themed_inv": "#EC1A19"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F942833ec42ea07c49950e4540a576a69.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fab2451f4e4ea0e45f87bcd3ad1b1d9d8.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory105",
+									"companion": "se_web_display_podcategory105"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory105",
+									"companion": "se_web_display_podcategory105"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory105",
+									"companion": "se_web_display_podcategory105"
+								}
+							},
+							"type": "pod_category",
+							"id": 105,
+							"image": "\u002Fimg\u002Fcropped\u002Fb7b65dbc311c64e3.jpg",
+							"description": "Förutom vår superfemma har vi även gäster som då och då förgyller vår tillvaro. Här kan du lyssna på dina favoriter."
+						},
+						"151": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F151.xml",
+							"hero_override_link": null,
+							"name": "Brännpunkt Johnsson",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapol\u002Fbrannpunkt-johnsson",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#EC1A19",
+								"text_color_primary_themed_inv": "#EC1A19"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F942833ec42ea07c49950e4540a576a69.jpeg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fab2451f4e4ea0e45f87bcd3ad1b1d9d8.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory151",
+									"companion": "se_web_display_podcategory151"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory151",
+									"companion": "se_web_display_podcategory151"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory151",
+									"companion": "se_web_display_podcategory151"
+								}
+							},
+							"type": "pod_category",
+							"id": 151,
+							"image": "\u002Fimg\u002Fcropped\u002F7edf212006cbdd9d.jpg",
+							"description": "Varje måndag håller Henrik Johnsson ett brandtal om någonting som berör eller upprör. "
+						},
+						"162": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F162.xml",
+							"hero_override_link": null,
+							"name": "Jesses Topplista",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapol\u002Fjesses-topplista",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#EC1A19",
+								"text_color_primary_themed_inv": "#EC1A19"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Ffc164496daac04a45cfad19e7adaf502.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F2ec0eff9c012b85c83a13580cc698feb.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory162",
+									"companion": "se_web_display_podcategory162"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory162",
+									"companion": "se_web_display_podcategory162"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory162",
+									"companion": "se_web_display_podcategory162"
+								}
+							},
+							"type": "pod_category",
+							"id": 162,
+							"image": "\u002Fimg\u002Fcropped\u002F6812e6a3777cf6fb.jpg",
+							"description": "Jesse & Peter håller dig sällskap varje vardags eftermiddag på Mix Megapol. "
+						},
+						"164": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F164.xml",
+							"hero_override_link": null,
+							"name": "Senaste Programmet",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapol\u002Fsenaste-antligen-morgon",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#EC1A19",
+								"text_color_primary_themed_inv": "#EC1A19"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F1975b9a35b53571a36786ddb6c68aae3.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fad1ca4ba97be0e382eba0a8d58abc33d.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory164",
+									"companion": "se_web_display_podcategory164"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory164",
+									"companion": "se_web_display_podcategory164"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory164",
+									"companion": "se_web_display_podcategory164"
+								}
+							},
+							"type": "pod_category",
+							"id": 164,
+							"image": "\u002Fimg\u002Fcropped\u002F2d595505136168ec.jpg",
+							"description": "Här kan du höra hela morgonens program i efterhand. Programmet är uppdelat i tre delar för att underlätta lyssningen."
+						},
+						"188": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F188.xml",
+							"hero_override_link": null,
+							"name": "Wake Up Call",
+							"hero_override_image": null,
+							"url": "\u002Fnrj\u002Fwake-up-call",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#E2001A",
+								"text_color_primary_themed_inv": "#E2001A"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F734d7b6b7a3c7764e445077af7967209.png",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F8f67e913568c492d685456b52779d13e.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory188",
+									"companion": "se_web_display_podcategory188"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory188",
+									"companion": "se_web_display_podcategory188"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory188",
+									"companion": "se_web_display_podcategory188"
+								}
+							},
+							"type": "pod_category",
+							"id": 188,
+							"image": "\u002Fimg\u002Fcropped\u002Fffe759307db80ee5.png",
+							"description": "Telefonterroristen Ola Lustig väljer noga ut sina offer! "
+						},
+						"193": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F193.xml",
+							"hero_override_link": null,
+							"name": "Emmas Tips & Trender",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapol\u002Femmas-tips-trender",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#EC1A19",
+								"text_color_primary_themed_inv": "#EC1A19"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F82c60e75812c4e337f96cd7cf077025b.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fab2451f4e4ea0e45f87bcd3ad1b1d9d8.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory193",
+									"companion": "se_web_display_podcategory193"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory193",
+									"companion": "se_web_display_podcategory193"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory193",
+									"companion": "se_web_display_podcategory193"
+								}
+							},
+							"type": "pod_category",
+							"id": 193,
+							"image": "\u002Fimg\u002Fcropped\u002F8aad1fa8ec447a53.jpg",
+							"description": "Emma Wiklund tipsar varje tisdag om mode och skönhet. "
+						},
+						"208": {
+							"rss_url": null,
+							"hero_override_link": null,
+							"name": "The Show",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapolgoteborg\u002Fthe-show",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#CF0019",
+								"text_color_primary_themed_inv": "#CF0019"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F905fd48ec0888318bad35ef757de7517.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F3f13d7e7899f10d20d4218f9bfdad87f.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory208",
+									"companion": "se_web_display_podcategory208"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory208",
+									"companion": "se_web_display_podcategory208"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory208",
+									"companion": "se_web_display_podcategory208"
+								}
+							},
+							"type": "pod_category",
+							"id": 208,
+							"image": "\u002Fimg\u002Fcropped\u002F09e2db01809ac1ae.png",
+							"description": ""
+						},
+						"209": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F209.xml",
+							"hero_override_link": null,
+							"name": "Ola Testar",
+							"hero_override_image": null,
+							"url": "\u002Fnrj\u002Fola-testar",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#E2001A",
+								"text_color_primary_themed_inv": "#E2001A"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fa953fb0f9d372ce7126092b4e8f3c578.png",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F5ac22994910328d662cbb429af6fa7da.png",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory209",
+									"companion": "se_web_display_podcategory209"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory209",
+									"companion": "se_web_display_podcategory209"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory209",
+									"companion": "se_web_display_podcategory209"
+								}
+							},
+							"type": "pod_category",
+							"id": 209,
+							"image": "\u002Fimg\u002Fcropped\u002F154135afda5b97e6.png",
+							"description": "Ola utför experiment som når bortom alla sinnen! "
+						},
+						"235": {
+							"rss_url": null,
+							"hero_override_link": null,
+							"name": "Höjdpunkter",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapol\u002Fhojdpunkter",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#EC1A19",
+								"text_color_primary_themed_inv": "#EC1A19"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F82c60e75812c4e337f96cd7cf077025b.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fab2451f4e4ea0e45f87bcd3ad1b1d9d8.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory235",
+									"companion": "se_web_display_podcategory235"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory235",
+									"companion": "se_web_display_podcategory235"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory235",
+									"companion": "se_web_display_podcategory235"
+								}
+							},
+							"type": "pod_category",
+							"id": 235,
+							"image": "\u002Fimg\u002Fcropped\u002F2d595505136168ec.jpg",
+							"description": "Highlights från morgonshowen."
+						},
+						"272": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F272.xml",
+							"hero_override_link": null,
+							"name": "Vakna Med NRJ",
+							"hero_override_image": null,
+							"url": "\u002Fnrj\u002Fvakna-med-nrj",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#E2001A",
+								"text_color_primary_themed_inv": "#E2001A"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fda8a275dac7d122754a8a0a500cba287.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fbd0908caa0c3962b279a0b2127820003.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory272",
+									"companion": "se_web_display_podcategory272"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory272",
+									"companion": "se_web_display_podcategory272"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory272",
+									"companion": "se_web_display_podcategory272"
+								}
+							},
+							"type": "pod_category",
+							"id": 272,
+							"image": "\u002Fimg\u002Fcropped\u002F7c2181b281dc161d.png",
+							"description": "Roger, Titti & Ola finns med dig varje morgon!"
+						},
+						"283": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F283.xml",
+							"hero_override_link": null,
+							"name": "Fantastiska Farao",
+							"hero_override_image": null,
+							"url": "\u002Fnrj\u002Ffantastiska-farao",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#E2001A",
+								"text_color_primary_themed_inv": "#E2001A"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F8db53673f8d2564420138429dc8b5d78.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fb88c3060d1fcf3265faca194874a4a58.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory283",
+									"companion": "se_web_display_podcategory283"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory283",
+									"companion": "se_web_display_podcategory283"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory283",
+									"companion": "se_web_display_podcategory283"
+								}
+							},
+							"type": "pod_category",
+							"id": 283,
+							"image": "\u002Fimg\u002Fcropped\u002F61887e635b5f93f0.png",
+							"description": "Nytt avsnitt med Fantastiska Farao ute nu! "
+						},
+						"284": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F284.xml",
+							"hero_override_link": null,
+							"name": "Ihop Med Josefin",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fihop-med-josefin",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#FF95AE",
+								"text_color_primary_themed_inv": "#FF95AE"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F589e0e6479a99b323c72ce26e1831a9c.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fe6378c434feae03fe24ed4ee0082849e.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory284",
+									"companion": "se_web_display_podcategory284"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory284",
+									"companion": "se_web_display_podcategory284"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory284",
+									"companion": "se_web_display_podcategory284"
+								}
+							},
+							"type": "pod_category",
+							"id": 284,
+							"image": "\u002Fimg\u002Fcropped\u002Fd22510ab297d974d.jpg",
+							"description": "I Sveriges bästa relationspodd möter du Josefin Crafoord & Quetzala Blanco som tillsammans med spännande gäster hjälper DIG med DINA relationsproblem! "
+						},
+						"301": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F301.xml",
+							"hero_override_link": null,
+							"name": "Dilemma",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapol\u002Fdilemma",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#CF0019",
+								"text_color_primary_themed_inv": "#CF0019"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F79b5a0da59112f6867594f71c20b04c2.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F786cf718755fdab4b695205a6d0e54b9.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory301",
+									"companion": "se_web_display_podcategory301"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory301",
+									"companion": "se_web_display_podcategory301"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory301",
+									"companion": "se_web_display_podcategory301"
+								}
+							},
+							"type": "pod_category",
+							"id": 301,
+							"image": "\u002Fimg\u002Fcropped\u002F6cfd8477926b605a.jpg",
+							"description": "Dilemma - En panel med ledning av Anders S Nilsson ger sina synpunkter och lösningar på din problem. Varje lördag och söndag på Mix Megapol."
+						},
+						"302": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F302.xml",
+							"hero_override_link": null,
+							"name": "Äntligen Lördag",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapol\u002Fantligen-lordag",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#cf0019",
+								"text_color_primary_themed_inv": "#cf0019"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fec28785bedbbf390a859630338f7b21d.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F2898311155b81e70437d5f7364c49f09.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory302",
+									"companion": "se_web_display_podcategory302"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory302",
+									"companion": "se_web_display_podcategory302"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory302",
+									"companion": "se_web_display_podcategory302"
+								}
+							},
+							"type": "pod_category",
+							"id": 302,
+							"image": "\u002Fimg\u002Fcropped\u002F0afa86e06410ef14.jpg",
+							"description": "Äntligen Lördag är ett underhållningsprogram på Mix Megapol som leds av Tony Irving. Varje lördag bjuds det på skvaller, tävlingar och bra musik!"
+						},
+						"304": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F304.xml",
+							"hero_override_link": null,
+							"name": "Historiepodden",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fhistoriepodden",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#a15e3e",
+								"text_color_primary_themed_inv": "#a15e3e"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F947a469088a99bddef226ce396505d97.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Feba6700e5e7e1f7759876ff44af7d686.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory304",
+									"companion": "se_web_display_podcategory304"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory304",
+									"companion": "se_web_display_podcategory304"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory304",
+									"companion": "se_web_display_podcategory304"
+								}
+							},
+							"type": "pod_category",
+							"id": 304,
+							"image": "\u002Fimg\u002Fcropped\u002F6445ca8d16239768.jpg",
+							"description": "Historiepodden är det magiska gränsland där folkbildning & underhållning bildar en härlig symbios. Rykande inaktuella händelser varje vecka."
+						},
+						"312": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F312.xml",
+							"hero_override_link": null,
+							"name": "Hemma Hos Gry",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fhemma-hos-gry",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#2273e3",
+								"text_color_primary_themed_inv": "#2273e3"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F31a15001a0399d1a89a4b1836fc7d9ee.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F430f5c7d61802194689be47c5c4fbd67.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory312",
+									"companion": "se_web_display_podcategory312"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory312",
+									"companion": "se_web_display_podcategory312"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory312",
+									"companion": "se_web_display_podcategory312"
+								}
+							},
+							"type": "pod_category",
+							"id": 312,
+							"image": "\u002Fimg\u002Fcropped\u002F1bbb91309f2f9bbc.jpg",
+							"description": "Gry Forssell bestämde sig för att göra en egen podcast. En podcast som är just vad den heter; Hemma hos Gry.\r\n"
+						},
+						"313": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F313.xml",
+							"hero_override_link": null,
+							"name": "RadioPlay Nyheter",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fradio-play-nyheter",
+							"hero_wide_override_image": null,
+							"style": null,
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F7185d8a1c5a200ba14dfeb6f39ab7643.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F506b0aff84f49793552abb1ab415cde3.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory313",
+									"companion": "se_web_display_podcategory313"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory313",
+									"companion": "se_web_display_podcategory313"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory313",
+									"companion": "se_web_display_podcategory313"
+								}
+							},
+							"type": "pod_category",
+							"id": 313,
+							"image": "\u002Fimg\u002Fcropped\u002Fa24d4684de20548c.jpg",
+							"description": "Håll dig uppdaterad med de senaste nyheterna. Vardagar 06-18 & helger 08-15."
+						},
+						"316": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F316.xml",
+							"hero_override_link": null,
+							"name": "Businesspodden",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fbusinesspodden",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#57A441",
+								"text_color_primary_themed_inv": "#57A441"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fede2f9b39f49c5e90379f3ffc9065f32.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F58da1fe87583cf0278c26f73470fb597.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory316",
+									"companion": "se_web_display_podcategory316"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory316",
+									"companion": "se_web_display_podcategory316"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory316",
+									"companion": "se_web_display_podcategory316"
+								}
+							},
+							"type": "pod_category",
+							"id": 316,
+							"image": "\u002Fimg\u002Fcropped\u002F220f630f228091ea.jpg",
+							"description": "Businesspodden samlar Sveriges främsta entreprenörer för att varje vecka bedöma tre bolagspitchar. Vågar du skicka in? "
+						},
+						"317": {
+							"rss_url": null,
+							"hero_override_link": null,
+							"name": "Favorit-Dilemman",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapol\u002Ffavorit-dilemman",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#EC1A19",
+								"text_color_primary_themed_inv": "#EC1A19"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F82c60e75812c4e337f96cd7cf077025b.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fab2451f4e4ea0e45f87bcd3ad1b1d9d8.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory317",
+									"companion": "se_web_display_podcategory317"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory317",
+									"companion": "se_web_display_podcategory317"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory317",
+									"companion": "se_web_display_podcategory317"
+								}
+							},
+							"type": "pod_category",
+							"id": 317,
+							"image": "\u002Fimg\u002Fcropped\u002F6cfd8477926b605a.jpg",
+							"description": "Här kan du lyssna på några utvalda klipp från programmet Dilemma."
+						},
+						"320": {
+							"rss_url": null,
+							"hero_override_link": null,
+							"name": "Mix Megapol Krysset",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapol\u002Fkrysset",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#EC1A19",
+								"text_color_primary_themed_inv": "#EC1A19"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F05560fd7bb6be68282fa0877e2b4ad1c.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F02d60f9c9446772109c98f2fb6d65db5.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory320",
+									"companion": "se_web_display_podcategory320"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory320",
+									"companion": "se_web_display_podcategory320"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory320",
+									"companion": "se_web_display_podcategory320"
+								}
+							},
+							"type": "pod_category",
+							"id": 320,
+							"image": "\u002Fimg\u002Fcropped\u002F3826f963a1d955da.jpg",
+							"description": ""
+						},
+						"343": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F343.xml",
+							"hero_override_link": null,
+							"name": "NRJs Festivalsommar",
+							"hero_override_image": null,
+							"url": "\u002Fnrj\u002Fnrjs-festivalsommar",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#B40183",
+								"text_color_primary_themed_inv": "#B40183"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F3535a6c7ec431c1bc316c5527d37147c.png",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F584d58628ea6e7ee2615cbd31f3027bc.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory343",
+									"companion": "se_web_display_podcategory343"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory343",
+									"companion": "se_web_display_podcategory343"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory343",
+									"companion": "se_web_display_podcategory343"
+								}
+							},
+							"type": "pod_category",
+							"id": 343,
+							"image": "\u002Fimg\u002Fcropped\u002F5e94a8ef88660e04.png",
+							"description": "Häng med NRJ till ett par av sommarens största festivaler!"
+						},
+						"351": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F351.xml",
+							"hero_override_link": null,
+							"name": "Situation STHLM & Hemlösheten",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fsituation-sthlm-och-hemlosheten",
+							"hero_wide_override_image": null,
+							"style": null,
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F495fbf3d2f3128c78136b43bd9d8dc5e.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F5939f7fc0075d7611b09481ebc797bd2.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory351",
+									"companion": "se_web_display_podcategory351"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory351",
+									"companion": "se_web_display_podcategory351"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory351",
+									"companion": "se_web_display_podcategory351"
+								}
+							},
+							"type": "pod_category",
+							"id": 351,
+							"image": "\u002Fimg\u002Fcropped\u002Fdda34937fedd4912.png",
+							"description": "\"Situation STHLM\" har fyllt 20 år. Det här är en dokumentärserie om tidningens historia & deras försäljare - de hemlösa. "
+						},
+						"352": {
+							"rss_url": null,
+							"hero_override_link": null,
+							"name": "Martin Stenmarck",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapol\u002Fmartin-stenmarck",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#EC1A19",
+								"text_color_primary_themed_inv": "#EC1A19"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F82c60e75812c4e337f96cd7cf077025b.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fab2451f4e4ea0e45f87bcd3ad1b1d9d8.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory352",
+									"companion": "se_web_display_podcategory352"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory352",
+									"companion": "se_web_display_podcategory352"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory352",
+									"companion": "se_web_display_podcategory352"
+								}
+							},
+							"type": "pod_category",
+							"id": 352,
+							"image": "\u002Fimg\u002Fcropped\u002F80dc630bc359bb98.jpg",
+							"description": "Martin berättar om historierna bakom kända låtar."
+						},
+						"353": {
+							"rss_url": null,
+							"hero_override_link": null,
+							"name": "Thomas Bodström",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapol\u002Fthomas-bodstrom",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#EC1A19",
+								"text_color_primary_themed_inv": "#EC1A19"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F82c60e75812c4e337f96cd7cf077025b.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fab2451f4e4ea0e45f87bcd3ad1b1d9d8.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory353",
+									"companion": "se_web_display_podcategory353"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory353",
+									"companion": "se_web_display_podcategory353"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory353",
+									"companion": "se_web_display_podcategory353"
+								}
+							},
+							"type": "pod_category",
+							"id": 353,
+							"image": "\u002Fimg\u002Fcropped\u002F53eee69e326b6310.jpg",
+							"description": "Thomas reder ut bland lagar & regler."
+						},
+						"354": {
+							"rss_url": null,
+							"hero_override_link": null,
+							"name": "Deckardansken",
+							"hero_override_image": null,
+							"url": "\u002Fmixmegapol\u002Fdeckardansken",
+							"hero_wide_override_image": null,
+							"style": null,
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F942833ec42ea07c49950e4540a576a69.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fab2451f4e4ea0e45f87bcd3ad1b1d9d8.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory354",
+									"companion": "se_web_display_podcategory354"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory354",
+									"companion": "se_web_display_podcategory354"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory354",
+									"companion": "se_web_display_podcategory354"
+								}
+							},
+							"type": "pod_category",
+							"id": 354,
+							"image": "\u002Fimg\u002Fcropped\u002F490a2ea0e7b7f930.jpg",
+							"description": "Dansken jagar plagiat i musikvärlden."
+						},
+						"355": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F355.xml",
+							"hero_override_link": null,
+							"name": "Viktor & Faraos Podcast",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fviktor-faraos-podcast",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#C42D25",
+								"text_color_primary_themed_inv": "#C42D25"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fdad2d6b7844372d67a1ecf0d4c5075f3.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F34ed3c55dd7c8672a6d3c883a48017e9.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory355",
+									"companion": "se_web_display_podcategory355"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory355",
+									"companion": "se_web_display_podcategory355"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory355",
+									"companion": "se_web_display_podcategory355"
+								}
+							},
+							"type": "pod_category",
+							"id": 355,
+							"image": "\u002Fimg\u002Fcropped\u002Fe7cfc5c92a6a8543.jpg",
+							"description": "Politik, sexualitet, synen på män & kvinnor, film, musik & sociala medier. Det här är podden där INGENTING är för kontroversiellt."
+						},
+						"358": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F358.xml",
+							"hero_override_link": null,
+							"name": "Ventil",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fventil",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#8604ac",
+								"text_color_primary_themed_inv": "#8604ac"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F264fa2df1c736a703086ee540dd7800e.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Febd8e491a5cb743f5add8b2a455b07ec.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory358",
+									"companion": "se_web_display_podcategory358"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory358",
+									"companion": "se_web_display_podcategory358"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory358",
+									"companion": "se_web_display_podcategory358"
+								}
+							},
+							"type": "pod_category",
+							"id": 358,
+							"image": "\u002Fimg\u002Fcropped\u002F3005ae93428f670c.jpg",
+							"description": "Häng med Adam, Ari, Henrik & Johannes på en resa genom spelvärlden & ta del av rykande heta spelaktualiteter. Podden för dig som älskar gaming. "
+						},
+						"359": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F359.xml",
+							"hero_override_link": null,
+							"name": "FitnessPodden",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Ffitnesspodden",
+							"hero_wide_override_image": null,
+							"style": null,
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F3b866227e1a0c82e84d54186ad50b6c6.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F96429cf49a168d2d473b181fb5a8c63e.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory359",
+									"companion": "se_web_display_podcategory359"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory359",
+									"companion": "se_web_display_podcategory359"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory359",
+									"companion": "se_web_display_podcategory359"
+								}
+							},
+							"type": "pod_category",
+							"id": 359,
+							"image": "\u002Fimg\u002Fcropped\u002Fe211a30d3c5f31c4.jpg",
+							"description": "En podcast som tar upp det mesta inom träning & hälsa & som inte tvekar att såga diverse myter & löpsedlar."
+						},
+						"360": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F360.xml",
+							"hero_override_link": null,
+							"name": "NRJs Musikredaktion",
+							"hero_override_image": null,
+							"url": "\u002Fnrj\u002Fmusikredaktionen",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#E2001A",
+								"text_color_primary_themed_inv": "#E2001A"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F86db3951aab44a63d29d4ca6383a8e74.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F829000398b17793c8329449b5f1d4a93.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory360",
+									"companion": "se_web_display_podcategory360"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory360",
+									"companion": "se_web_display_podcategory360"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory360",
+									"companion": "se_web_display_podcategory360"
+								}
+							},
+							"type": "pod_category",
+							"id": 360,
+							"image": "\u002Fimg\u002Fcropped\u002F6551c3932c68259c.jpg",
+							"description": "Det senaste från musik & kändisvärlden med Felix Andersson, Sandy & Matte!"
+						},
+						"363": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F363.xml",
+							"hero_override_link": null,
+							"name": "Intervjuer",
+							"hero_override_image": null,
+							"url": "\u002Frockklassiker\u002Fintervjuer",
+							"hero_wide_override_image": null,
+							"style": null,
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F5f83f4bdbc6589958b3be1f349e8d7d8.png",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F652361c9d043622928ea212891d5438b.png",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory363",
+									"companion": "se_web_display_podcategory363"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory363",
+									"companion": "se_web_display_podcategory363"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory363",
+									"companion": "se_web_display_podcategory363"
+								}
+							},
+							"type": "pod_category",
+							"id": 363,
+							"image": "\u002Fimg\u002Fcropped\u002F708f26b7e8389a74.jpg",
+							"description": "Hör hela intervjuerna med de största artisterna här."
+						},
+						"365": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F365.xml",
+							"hero_override_link": null,
+							"name": "Skitnördigt",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fskitnordigt",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#000000",
+								"text_color_primary_themed_inv": "#000000"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F3c6954d7df9b17468681639dff974c40.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F794f6c32e4a2ceeee1ef5334aafd9ea6.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory365",
+									"companion": "se_web_display_podcategory365"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory365",
+									"companion": "se_web_display_podcategory365"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory365",
+									"companion": "se_web_display_podcategory365"
+								}
+							},
+							"type": "pod_category",
+							"id": 365,
+							"image": "\u002Fimg\u002Fcropped\u002F898b6cd05d975110.jpg",
+							"description": "Där sitter du å ba \"omg vad ska jag kolla på nu?\"... Vi vet!"
+						},
+						"406": {
+							"rss_url": null,
+							"hero_override_link": null,
+							"name": "Växel-Calle",
+							"hero_override_image": null,
+							"url": "\u002Fvaxel-calle",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#CF0019",
+								"text_color_primary_themed_inv": "#CF0019"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F942833ec42ea07c49950e4540a576a69.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fab2451f4e4ea0e45f87bcd3ad1b1d9d8.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory406",
+									"companion": "se_web_display_podcategory406"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory406",
+									"companion": "se_web_display_podcategory406"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory406",
+									"companion": "se_web_display_podcategory406"
+								}
+							},
+							"type": "pod_category",
+							"id": 406,
+							"image": "\u002Fimg\u002Fcropped\u002F1efec48d99ebcb19.jpg",
+							"description": "Växel-Calle är vår glädjespridare på morgonen. "
+						},
+						"407": {
+							"rss_url": null,
+							"hero_override_link": null,
+							"name": "Malin & Fantastiska Farao",
+							"hero_override_image": null,
+							"url": "\u002Fmalin-fantastiska-farao",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#CF0019",
+								"text_color_primary_themed_inv": "#CF0019"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F942833ec42ea07c49950e4540a576a69.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fab2451f4e4ea0e45f87bcd3ad1b1d9d8.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory407",
+									"companion": "se_web_display_podcategory407"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory407",
+									"companion": "se_web_display_podcategory407"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory407",
+									"companion": "se_web_display_podcategory407"
+								}
+							},
+							"type": "pod_category",
+							"id": 407,
+							"image": "\u002Fimg\u002Fcropped\u002Ff5769bcf1df7ee22.png",
+							"description": "Malin och Farao om veckan som gått, vad är ok och inte ok att göra och uppdrag inför kommande vecka. "
+						},
+						"420": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F420.xml",
+							"hero_override_link": null,
+							"name": "Rockbrunchen",
+							"hero_override_image": null,
+							"url": "\u002Frockklassiker\u002Frockbrunchen",
+							"hero_wide_override_image": null,
+							"style": {
+								"text_color_tertiary": "#000000",
+								"text_color_secondary": "#7F7F7F",
+								"text_color_primary_themed": "#FFFFFF",
+								"text_color_primary_selected": "#262B2F",
+								"text_color_secondary_themed_inv": "#7F7F7F",
+								"background_color_selected": "#FFF3CC",
+								"background_color_themed": "#02244F",
+								"text_color_header_secondary": "#8C8C8C",
+								"background_color": "#ECECEC",
+								"text_color_secondary_themed": "#7AABEE",
+								"text_color_primary": "#262B2F",
+								"text_color_secondary_selected": "#7F7F7F",
+								"text_color_primary_themed_inv": "#02244F",
+								"background_color_module": "#FFFFFF",
+								"text_color_tertiary_selected": "#000000",
+								"background_color_header": "#ECECEC",
+								"background_color_themed_inv": "#FFFFFF",
+								"text_color_header_primary": "#000000"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F51c15f9fe56d877218e7c6832eefd329.png",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F5705d2297fc99afae984f5822324dc2a.png",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory420",
+									"companion": "se_web_display_podcategory420"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory420",
+									"companion": "se_web_display_podcategory420"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory420",
+									"companion": "se_web_display_podcategory420"
+								}
+							},
+							"type": "pod_category",
+							"id": 420,
+							"image": "\u002Fimg\u002Fcropped\u002F6fa2fa882717b2e2.png",
+							"description": "Häng med Ian och Mick på Rockbrunchen! Bjuds på en buffé av rocknyheter och sköna turnéminnen "
+						},
+						"424": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F424.xml",
+							"hero_override_link": null,
+							"name": "Rockstjärnepodden",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Frockstjarnepodden",
+							"hero_wide_override_image": null,
+							"style": null,
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F38b389e35454c5c7dc0d8fffac9958cc.png",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fdb963a7c46c968f2489b3a6f051d414e.png",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory424",
+									"companion": "se_web_display_podcategory424"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory424",
+									"companion": "se_web_display_podcategory424"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory424",
+									"companion": "se_web_display_podcategory424"
+								}
+							},
+							"type": "pod_category",
+							"id": 424,
+							"image": "\u002Fimg\u002Fcropped\u002F9a68bc3c252339fc.jpg",
+							"description": "Hör de största rockstjärnorna genom tiderna berätta om sina liv & bli nostalgiska över galna turnéminnen."
+						},
+						"425": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F425.xml",
+							"hero_override_link": null,
+							"name": "Vad är Poängen..?",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fvad-ar-poangen",
+							"hero_wide_override_image": null,
+							"style": {},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F9e1d866e8eab01cbaedb50296d605a9e.png",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Ff5ac77873c9d69cea8744f928df97b53.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory425",
+									"companion": "se_web_display_podcategory425"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory425",
+									"companion": "se_web_display_podcategory425"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory425",
+									"companion": "se_web_display_podcategory425"
+								}
+							},
+							"type": "pod_category",
+							"id": 425,
+							"image": "\u002Fimg\u002Fcropped\u002F05d70d70ac0d4a2b.jpg",
+							"description": "Alex Kossek från podcasten “Hemma hos Gry” & Christian Rück, psykiater, rotar runt i ämnen kring människan & hennes irrvägar. "
+						},
+						"426": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F426.xml",
+							"hero_override_link": null,
+							"name": "Svenska Mordhistorier",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fsvenska-mordhistorier",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#000000",
+								"text_color_primary_themed_inv": "#000000"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F347461c1665500f1bd3192141958d27a.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fed28e6981f0528462764dfc8b21242a7.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory426",
+									"companion": "se_web_display_podcategory426"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory426",
+									"companion": "se_web_display_podcategory426"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory426",
+									"companion": "se_web_display_podcategory426"
+								}
+							},
+							"type": "pod_category",
+							"id": 426,
+							"image": "\u002Fimg\u002Fcropped\u002Fcdd8d087fb4b022e.jpg",
+							"description": "Podcasten som tar upp verkliga mordmysterier, såväl som påhittade fall inspirerade av sanna händelser."
+						},
+						"428": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F428.xml",
+							"hero_override_link": null,
+							"name": "Schlagerpodden",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fschlagerpodden",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#ED69F2",
+								"text_color_primary_themed_inv": "#ED69F2"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F5dd91291beacf1bb275776f9d9a3f2d7.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F32b3c2b4eda27f1f330bb806644d0de5.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory428",
+									"companion": "se_web_display_podcategory428"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory428",
+									"companion": "se_web_display_podcategory428"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory428",
+									"companion": "se_web_display_podcategory428"
+								}
+							},
+							"type": "pod_category",
+							"id": 428,
+							"image": "\u002Fimg\u002Fcropped\u002F9742bea774997130.png",
+							"description": "Häng med Elaine Mooe, David McLeod & Mix Megapols flygande reporter Anders Ringqvist genom årets schlageryra!"
+						},
+						"429": {
+							"rss_url": null,
+							"hero_override_link": null,
+							"name": "Biltrafik",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Ftrafik08",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#2271E3",
+								"text_color_primary_themed_inv": "#2271E3"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F0443ba24b379b0e51c36a9de00b6f44e.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fc723da25d65251750e564fc27a2645e2.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory429",
+									"companion": "se_web_display_podcategory429"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory429",
+									"companion": "se_web_display_podcategory429"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory429",
+									"companion": "se_web_display_podcategory429"
+								}
+							},
+							"type": "pod_category",
+							"id": 429,
+							"image": "\u002Fimg\u002Fcropped\u002F5f25a48fd0ce76da.jpg",
+							"description": "Den senaste informationen för biltrafik, kollektivtrafik samt flyg- & sjötrafik. Här hittar du även dagsaktuella väderprognoser. "
+						},
+						"430": {
+							"rss_url": null,
+							"hero_override_link": null,
+							"name": "Kollektivtrafik",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fkollektivtrafiken",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#2273e3",
+								"text_color_primary_themed_inv": "#2273e3"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F0443ba24b379b0e51c36a9de00b6f44e.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fc723da25d65251750e564fc27a2645e2.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory430",
+									"companion": "se_web_display_podcategory430"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory430",
+									"companion": "se_web_display_podcategory430"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory430",
+									"companion": "se_web_display_podcategory430"
+								}
+							},
+							"type": "pod_category",
+							"id": 430,
+							"image": "\u002Fimg\u002Fcropped\u002Fe8ae626c6fb12bb6.jpg",
+							"description": ""
+						},
+						"431": {
+							"rss_url": null,
+							"hero_override_link": null,
+							"name": "Flyg- & Sjötrafiken",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fflyg-sjotrafiken",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#2273e3",
+								"text_color_primary_themed_inv": "#2273e3"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F0443ba24b379b0e51c36a9de00b6f44e.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fc723da25d65251750e564fc27a2645e2.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory431",
+									"companion": "se_web_display_podcategory431"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory431",
+									"companion": "se_web_display_podcategory431"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory431",
+									"companion": "se_web_display_podcategory431"
+								}
+							},
+							"type": "pod_category",
+							"id": 431,
+							"image": "\u002Fimg\u002Fcropped\u002F7cb2fba94aed436c.jpg",
+							"description": ""
+						},
+						"432": {
+							"rss_url": null,
+							"hero_override_link": null,
+							"name": "Väder",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fvader",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#2273e3",
+								"text_color_primary_themed_inv": "#2273e3"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F0443ba24b379b0e51c36a9de00b6f44e.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fc723da25d65251750e564fc27a2645e2.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory432",
+									"companion": "se_web_display_podcategory432"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory432",
+									"companion": "se_web_display_podcategory432"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory432",
+									"companion": "se_web_display_podcategory432"
+								}
+							},
+							"type": "pod_category",
+							"id": 432,
+							"image": "\u002Fimg\u002Fcropped\u002F62a99b6f17d3637c.jpg",
+							"description": ""
+						},
+						"433": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F433.xml",
+							"hero_override_link": null,
+							"name": "Men Herre Gud!",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fmen-herre-gud",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#000000",
+								"text_color_primary_themed_inv": "#000000"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F846855b2b0528ca109a15e2971da92e6.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F5b15bbd92f6bdbec9c5d369dbd7c7783.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory433",
+									"companion": "se_web_display_podcategory433"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory433",
+									"companion": "se_web_display_podcategory433"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory433",
+									"companion": "se_web_display_podcategory433"
+								}
+							},
+							"type": "pod_category",
+							"id": 433,
+							"image": "\u002Fimg\u002Fcropped\u002F3b2453ca33385e69.jpg",
+							"description": "Utan tro är du inget. Vad tror du på? Mark Levengood & Henrik Johnsson har frågorna om det större som kan ge dig klarhet i det mindre."
+						},
+						"434": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F434.xml",
+							"hero_override_link": null,
+							"name": "Gry & Anders Med Gäster",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fgry-anders-med-gaster",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#cf0019"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F56d6ff0dc6daa56522e64d08989576b6.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F9ac7b21defa05255875c1f010e8b7d31.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory434",
+									"companion": "se_web_display_podcategory434"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory434",
+									"companion": "se_web_display_podcategory434"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory434",
+									"companion": "se_web_display_podcategory434"
+								}
+							},
+							"type": "pod_category",
+							"id": 434,
+							"image": "\u002Fimg\u002Fcropped\u002F299e0bb6e2518c35.png",
+							"description": "Gry & Anders Med Gäster, en podcast där radioprofilerna Gry Forssell & Anders Timell varje onsdag möter en ny, intressant gäst."
+						},
+						"435": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F435.xml",
+							"hero_override_link": null,
+							"name": "Varvet-podden",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fvarvet-podden",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#CF0019",
+								"text_color_primary_themed_inv": "#CF0019"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F06e7188e0aeb56460f547ef6d16d3b25.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F9d966399132b56771efc7512d787142f.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory435",
+									"companion": "se_web_display_podcategory435"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory435",
+									"companion": "se_web_display_podcategory435"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory435",
+									"companion": "se_web_display_podcategory435"
+								}
+							},
+							"type": "pod_category",
+							"id": 435,
+							"image": "\u002Fimg\u002Fcropped\u002Fdd84df094aa70ade.png",
+							"description": "För dig som ska springa Göteborgsvarvet den 21 maj. Anna Spolander & Ingemar Allén förser dig med allt du behöver veta - oavsett vilken nivå du befinner dig på."
+						},
+						"436": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F436.xml",
+							"hero_override_link": null,
+							"name": "Parpodden",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fparpodden",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#8E9FC9"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F9ae17fc0446bd6626e6dbc2811cf7884.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F211ddf59024f19c2cb38c888f300a906.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory436",
+									"companion": "se_web_display_podcategory436"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory436",
+									"companion": "se_web_display_podcategory436"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory436",
+									"companion": "se_web_display_podcategory436"
+								}
+							},
+							"type": "pod_category",
+							"id": 436,
+							"image": "\u002Fimg\u002Fcropped\u002F5a3c13fcdde83582.png",
+							"description": "Med hjälp av parterapeuten Linn Heed försöker Ola & Linda Lustig hitta tillbaka till varandra."
+						},
+						"438": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F438.xml",
+							"hero_override_link": null,
+							"name": "Nemo Möter En Vän",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fnemo-moter-en-van",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#33313F"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F9201bbd1d3216f1d27ece4b9cf12ce24.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F8dc8f59bb722aebd7c7ac6424c3bd618.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory438",
+									"companion": "se_web_display_podcategory438"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory438",
+									"companion": "se_web_display_podcategory438"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory438",
+									"companion": "se_web_display_podcategory438"
+								}
+							},
+							"type": "pod_category",
+							"id": 438,
+							"image": "\u002Fimg\u002Fcropped\u002F6fc8d67c75486cf2.jpg",
+							"description": "Nemo Hedén slår sig ner öga mot öga med kända profiler & tar reda på allt det där han länge undrat över. "
+						},
+						"439": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F439.xml",
+							"hero_override_link": null,
+							"name": "Bettingpodden",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fbettingpodden",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#96BF21"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002F0b78894571c04636f043e7406cd2b04d.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F8891b673a83839aad79562537ec58e2d.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory439",
+									"companion": "se_web_display_podcategory439"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory439",
+									"companion": "se_web_display_podcategory439"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory439",
+									"companion": "se_web_display_podcategory439"
+								}
+							},
+							"type": "pod_category",
+							"id": 439,
+							"image": "\u002Fimg\u002Fcropped\u002F69fe62d3b6a6629a.jpg",
+							"description": "En fotbollshjälte & en sportnörd analyserar de kommande matcherna & ger dig sina bästa tips."
+						},
+						"440": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F440.xml",
+							"hero_override_link": null,
+							"name": "Paranormalia",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fparanormalia",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#000000"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fc802e00d09dea196800449f5f46bb36c.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F0b0a2351c6bd06da0f09c0938e3cca02.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory440",
+									"companion": "se_web_display_podcategory440"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory440",
+									"companion": "se_web_display_podcategory440"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory440",
+									"companion": "se_web_display_podcategory440"
+								}
+							},
+							"type": "pod_category",
+							"id": 440,
+							"image": "\u002Fimg\u002Fcropped\u002F9fbf405880740c00.jpg",
+							"description": "Andar, vålnader & skräckinjagande händelser. Det här är podcasten som håller dig vaken om nätterna.  "
+						},
+						"441": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F441.xml",
+							"hero_override_link": null,
+							"name": "Mordpodden",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fmordpodden",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#000000",
+								"text_color_primary_themed_inv": "#000000"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fe619b82b110cf6c6f2328f4db612eb61.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002Fb2ee6f8621c4ec4d70890bd78ca9c7b1.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory441",
+									"companion": "se_web_display_podcategory441"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory441",
+									"companion": "se_web_display_podcategory441"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory441",
+									"companion": "se_web_display_podcategory441"
+								}
+							},
+							"type": "pod_category",
+							"id": 441,
+							"image": "\u002Fimg\u002Fcropped\u002F78b18ca63d4c279a.png",
+							"description": "I den här podcasten får du grotta ner dig i ett antal läskiga, sanna & riktigt spännande mordfall."
+						},
+						"442": {
+							"rss_url": "https:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Frss\u002F442.xml",
+							"hero_override_link": null,
+							"name": "Känslor & Sånt",
+							"hero_override_image": null,
+							"url": "\u002Fpodcast\u002Fkanslor-och-sant",
+							"hero_wide_override_image": null,
+							"style": {
+								"background_color_themed": "#733867"
+							},
+							"hero_wide_image": "\u002Fimg\u002Foriginal\u002Fc2c5b45c3cb5cea01ab455af93a66cee.jpg",
+							"hero_image": "\u002Fimg\u002Foriginal\u002F654bca45f18bac00b6f22fde05e90ecd.jpg",
+							"zone_identifiers": {
+								"midroll": {
+									"audio": "se_audiomidroll_podcategory442",
+									"companion": "se_web_display_podcategory442"
+								},
+								"postroll": {
+									"audio": "se_audiopostroll_podcategory442",
+									"companion": "se_web_display_podcategory442"
+								},
+								"preroll": {
+									"audio": "se_audiopreroll_podcategory442",
+									"companion": "se_web_display_podcategory442"
+								}
+							},
+							"type": "pod_category",
+							"id": 442,
+							"image": "\u002Fimg\u002Fcropped\u002F915892fa24ca110c.jpg",
+							"description": "Varje lördag träffas Calle, Niklas & Tomas för att grotta ner sig i alla möjliga olika känslodilemman. Välkommen till podcasten som går rakt in i hjärtat. "
+						}
+					}
+				},
+				"ClientConfigurationStore": {
+					"ANALYTICS_USE_VE_INTERACTIVE": "1",
+					"FETCH_NOTICE_URL": "http:\u002F\u002Fcdn.radioplay.se\u002Fdata\u002Fnotice\u002Fnotice.json",
+					"ON_AIR_URL_JSON": "http:\u002F\u002Fcdn.radioplay.se\u002Fonair\u002F{hash}.json",
+					"GOOGLE_ANALYTICS_ACCOUNT": "UA-2946493-15",
+					"ANALYTICS_USE_SIFO": "1",
+					"FACEBOOK_APP_ID": "274463702663964",
+					"WEBSOCKET_PUB_SUB_URL": "ws:\u002F\u002Famqp-ws-proxy-dev.eu-west-1.elasticbeanstalk.com\u002F",
+					"ADSWIZZ_WALLPAPER_ZONE_ALIAS": "se_web_wallpaper",
+					"IMAGE_SERVER_URL": "\u002F\u002Fd46xrhm44izup.cloudfront.net"
+				},
+				"RouteStore": {
+					"currentUrl": "\u002Fnrj\u002Flatlista",
+					"currentNavigate": {
+						"transactionId": 1689509282447360,
+						"method": "GET",
+						"url": "\u002Fnrj\u002Flatlista"
+					},
+					"currentNavigateError": null,
+					"isNavigateComplete": true,
+					"routes": null
+				},
+				"PageStore": {
+					"currentUrl": "\u002Fnrj\u002Flatlista",
+					"currentParsedUrl": {
+						"port": null,
+						"path": "\u002Fnrj\u002Flatlista",
+						"query": {},
+						"auth": null,
+						"search": "",
+						"host": null,
+						"slashes": null,
+						"href": "\u002Fnrj\u002Flatlista",
+						"hash": null,
+						"pathname": "\u002Fnrj\u002Flatlista",
+						"hostname": null,
+						"protocol": null
+					},
+					"pages": {
+						"\u002Fnrj\u002Flatlista": {
+							"data": [{
+								"config": {
+									"takeover_sid": "5bc338f6-a655-4c64-86f2-9b928f5246db"
+								},
+								"pages": [{
+									"config": {},
+									"id": 67,
+									"name": "Start",
+									"style": null,
+									"type": "page",
+									"url": "\u002Fnrj\u002Fstart"
+								}, {
+									"config": {},
+									"id": 1417,
+									"name": "Lyssna Igen",
+									"style": null,
+									"type": "page",
+									"url": "\u002Fnrj\u002Flyssna-igen"
+								}, {
+									"config": {},
+									"id": 71,
+									"name": "Låtlista",
+									"style": null,
+									"type": "page",
+									"url": "\u002Fnrj\u002Flatlista"
+								}, {
+									"config": {},
+									"id": 73,
+									"name": "Tablå",
+									"style": null,
+									"type": "page",
+									"url": "\u002Fnrj\u002Ftabla"
+								}, {
+									"config": {},
+									"id": 1022,
+									"name": "Kontakt",
+									"style": null,
+									"type": "page",
+									"url": "\u002Fnrj\u002Fkontakt"
+								}],
+								"content_object": {
+									"description": "Vi älskar ny musik, alla hits non-stop. Världens största hits!",
+									"has_epg": true,
+									"id": 49,
+									"image": "\u002Fimg\u002Foriginal\u002F74912a94a15d5a3693d854c891422f71.png",
+									"name": "NRJ",
+									"style": {
+										"background_color_themed": "#E2001A",
+										"text_color_primary_themed_inv": "#E2001A"
+									},
+									"type": "station",
+									"url": "\u002Fnrj"
+								},
+								"active": true,
+								"modules": [{
+									"config": {},
+									"content": [{
+										"description": "Vi älskar ny musik, alla hits non-stop. Världens största hits!",
+										"has_epg": true,
+										"id": 49,
+										"image": "\u002Fimg\u002Foriginal\u002F74912a94a15d5a3693d854c891422f71.png",
+										"name": "NRJ",
+										"style": {
+											"background_color_themed": "#E2001A",
+											"text_color_primary_themed_inv": "#E2001A"
+										},
+										"type": "station",
+										"url": "\u002Fnrj"
+									}],
+									"id": 2022,
+									"style": {},
+									"type": "hero_station"
+								}, {
+									"config": {},
+									"content": [],
+									"id": 135,
+									"style": {},
+									"type": "tab"
+								}],
+								"name": "NRJ",
+								"url": "\u002Fnrj",
+								"metadata": {
+									"description": "Vi älskar ny musik, alla hits non-stop. Världens största hits!",
+									"image": "\u002Fimg\u002Foriginal\u002F74912a94a15d5a3693d854c891422f71.png",
+									"keywords": "All stations, På jobbet, Dance & House, Eftermiddagsshow, I Love Pop, Jogga, Party, Top 40 Hits, Radio Play Start, Alla, Morgonshow, Träning, All stations",
+									"name": "NRJ",
+									"title": "NRJ – alla hits nonstop!"
+								},
+								"style": {
+									"text_color_tertiary": "#000000",
+									"text_color_secondary": "#7F7F7F",
+									"text_color_primary_themed": "#FFFFFF",
+									"text_color_primary_selected": "#262B2F",
+									"text_color_secondary_themed_inv": "#7F7F7F",
+									"background_color_selected": "#FFF3CC",
+									"background_color_themed": "#E2001A",
+									"text_color_header_secondary": "#8C8C8C",
+									"background_color": "#ECECEC",
+									"text_color_secondary_themed": "#7AABEE",
+									"text_color_primary": "#262B2F",
+									"text_color_secondary_selected": "#7F7F7F",
+									"text_color_primary_themed_inv": "#E2001A",
+									"background_color_module": "#FFFFFF",
+									"text_color_tertiary_selected": "#000000",
+									"background_color_header": "#ECECEC",
+									"background_color_themed_inv": "#FFFFFF",
+									"border_color_module": "#CCCCCC",
+									"text_color_header_primary": "#000000"
+								},
+								"title": "NRJ – alla hits nonstop!",
+								"type": "page",
+								"id": 65
+							}, {
+								"config": {},
+								"pages": [],
+								"content_object": null,
+								"active": true,
+								"modules": [{
+									"config": {},
+									"content": [],
+									"id": 3046,
+									"style": {},
+									"type": "wallpaper"
+								}, {
+									"config": {
+										"text": null
+									},
+									"content": [],
+									"id": 144,
+									"style": {},
+									"type": "text"
+								}, {
+									"config": {
+										"station_id": 49
+									},
+									"content": [{
+										"artist": "Måns Zelmerlöw",
+										"created": 1466446575,
+										"id": 929083,
+										"title": "Fire in the Rain",
+										"type": "track"
+									}, {
+										"artist": "Drake feat. WizKid & Kyla",
+										"created": 1466446159,
+										"id": 928509,
+										"title": "One Dance",
+										"type": "track"
+									}, {
+										"artist": "The Chainsmokers feat. Daya",
+										"created": 1466445982,
+										"id": 927094,
+										"title": "Don't Let Me Down",
+										"type": "track"
+									}, {
+										"artist": "Seeb",
+										"created": 1466445793,
+										"id": 927940,
+										"title": "Breathe",
+										"type": "track"
+									}, {
+										"artist": "Mike Posner",
+										"created": 1466445601,
+										"id": 926922,
+										"title": "I Took a Pill in Ibiza (Seeb remix)",
+										"type": "track"
+									}, {
+										"artist": "Selena Gomez",
+										"created": 1466445376,
+										"id": 928999,
+										"title": "Kill’em With Kindness",
+										"type": "track"
+									}, {
+										"artist": "Sia",
+										"created": 1466445019,
+										"id": 926470,
+										"title": "Cheap Thrills",
+										"type": "track"
+									}, {
+										"artist": "The Chainsmokers feat. Rozes",
+										"created": 1466444052,
+										"id": 922122,
+										"title": "Roses",
+										"type": "track"
+									}, {
+										"artist": "Timeflies",
+										"created": 1466443896,
+										"id": 929113,
+										"title": "Once In A While [Explicit]",
+										"type": "track"
+									}, {
+										"artist": "Jason Derulo",
+										"created": 1466443254,
+										"id": 928426,
+										"title": "If It Ain't Love",
+										"type": "track"
+									}, {
+										"artist": "Twenty One Pilots",
+										"created": 1466443040,
+										"id": 926169,
+										"title": "Stressed Out",
+										"type": "track"
+									}, {
+										"artist": "Justin Timberlake",
+										"created": 1466442528,
+										"id": 929085,
+										"title": "Can't Stop The Feeling",
+										"type": "track"
+									}, {
+										"artist": "Cheat Codes x Kris Kross Amsterdam",
+										"created": 1466442353,
+										"id": 928699,
+										"title": "Sex",
+										"type": "track"
+									}, {
+										"artist": "Major Lazer",
+										"created": 1466442016,
+										"id": 928229,
+										"title": "Light It Up",
+										"type": "track"
+									}],
+									"id": 145,
+									"style": {},
+									"type": "track_history"
+								}],
+								"name": "Låtlista",
+								"url": "\u002Fnrj\u002Flatlista",
+								"metadata": {
+									"name": "",
+									"title": "NRJ spelade låtar"
+								},
+								"style": {},
+								"title": "NRJ spelade låtar",
+								"type": "page",
+								"id": 71
+							}],
+							"statusCode": 200
+						}
+					},
+					"previousUrl": ""
+				}
+			}
+		},
+		"plugins": {
+			"getClientEnv": {
+				"CORE_API": "https:\u002F\u002Fcoreapi-aws.radioplay.se",
+				"CORE_API_VERSION": "v1",
+				"STATIC_SERVER": "https:\u002F\u002Fcdn.radioplay.se",
+				"SENTRY_DSN_CLIENT": "http:\u002F\u002Fea5b6cbaf01249a5bd7fb7eeaa87cc3c@sentry.radioplay.se\u002F9"
+			}
+		}
+	},
+	"plugins": {}
+}
