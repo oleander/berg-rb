@@ -5,7 +5,7 @@ module Berg
     end
 
     def self.locate(object, &block)
-      new(&block).locate(object, "").query
+      new(&block).locate(object, "")
     end
 
     def locate(object, current)
