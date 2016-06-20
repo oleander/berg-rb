@@ -10,7 +10,7 @@ module Berg
     end
 
     def self.locate(object, &block)
-      new(&block).locate(object, "")
+      new(&block).locate(object, "").query
     end
 
     def locate(object, current)
@@ -81,12 +81,10 @@ module Berg
   end
 end
 
-# result1 = Berg::Key.locate(object) do |leaf|
-#   leaf.to_s.downcase.include?("fire in the rain")
-# end
+result1 = Berg::Key.locate(object) do |leaf|
+  leaf.to_s.downcase.include?("fire in the rain")
+end
 
-# pp result2 = Berg::Value.locate(object, "[1]")
+result2 = Berg::Value.new.locate(object, ".context.dispatcher.stores.PageStore.pages./nrj/latlista.data[1].modules[2].content[0].title")
 
-pp result2 = Berg::Value.new.locate(object, ".context.dispatcher.stores.PageStore.pages./nrj/latlista.data[1].modules[2].content[0].title")
-
-# pp [result1, result2]
+pp [result1, result2]
