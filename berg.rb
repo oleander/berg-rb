@@ -39,15 +39,14 @@ module Berg
     end
   end
 
-  class Value
-    # def initialize(object, query)
-    #   @object = object
-    #   @query = query
-    # end
-
+  class Value < Struct.new(:object, :query)
     ARRAY_ID = /\[(\d+)\]/
 
-    def locate(object, query)
+    def self.locate(object, query)
+      new(object, query).locate
+    end
+
+    def locate
       latest = object
       query.split(/\.|(\[\d+\])/).reject(&:empty?).inject("") do |result, key|
         found = case key
@@ -81,10 +80,10 @@ module Berg
   end
 end
 
-result1 = Berg::Key.locate(object) do |leaf|
-  leaf.to_s.downcase.include?("fire in the rain")
-end
+# result1 = Berg::Key.locate(object) do |leaf|
+#   leaf.to_s.downcase.include?("fire in the rain")
+# end
 
-result2 = Berg::Value.new.locate(object, ".context.dispatcher.stores.PageStore.pages./nrj/latlista.data[1].modules[2].content[0].title")
+result2 = Berg::Value.locate(object, ".context.dispatcher.stores.PageStore.pages./nrj/latlista.data[1].modules[2].content[0].title")
 
-pp [result1, result2]
+pp [result2, result2]
