@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/oleander/git-berg.svg?branch=master)](https://travis-ci.org/oleander/berg-rb)
+[![Build Status](https://travis-ci.org/oleander/berg-rb.svg?branch=master)](https://travis-ci.org/oleander/berg-rb)
 
 # Berg
 
