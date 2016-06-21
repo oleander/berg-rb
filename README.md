@@ -10,8 +10,6 @@ $ gem install berg
 
 ## Example
 
-See [example.rb](example.rb) for a runnable example.
-
 ``` ruby
 require "berg"
 
