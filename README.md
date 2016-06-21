@@ -19,11 +19,11 @@ data = { ... }
 query = ".data[1].modules[2].content[-1].title.name"
 value = "My value"
 
-# Get query for #{item} in #{data}
-result1 = Berg::Key.locate(data) do |leaf|
+# Get query for #{value} in #{data}
+Berg::Key.locate(data) do |leaf|
   leaf.to_s.include?(value)
 end
 
-# Get value from #{query}
-result2 = Berg::Value.locate(data, query)
+# Get value from #{query} in #{data}
+Berg::Value.locate(data, query)
 ```
