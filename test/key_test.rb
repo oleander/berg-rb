@@ -29,5 +29,11 @@ describe Berg do
     it "should not find anything" do
       Berg::Value.locate(@data, "nothing").found?.must_equal(false)
     end
+
+    it "should fail on debug" do
+      proc {
+        Berg::Value.locate(@data, "nothing", true)
+      }.must_raise(RuntimeError)
+    end
   end
 end
