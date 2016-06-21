@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/oleander/git-berg.svg?branch=master)](https://travis-ci.org/oleander/berg-rb)
+
 # Berg
 
 Find paths and values in complex Ruby hashes – much like css selectors.
