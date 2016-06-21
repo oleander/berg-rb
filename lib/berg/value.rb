@@ -1,6 +1,6 @@
 module Berg
   class Value
-    ARRAY_ID = /\[(\d+)\]/
+    include Berg::Base
 
     def initialize(object, query, debug = false)
       @object = object
@@ -15,7 +15,7 @@ module Berg
     def locate
       result, _ = keys.inject([@object, ""]) do |(latest, trace), key|
         found = case key
-        when ARRAY_ID
+        when Base::ARRAY_ID
           latest[$1.to_i]
         else
           latest[key] || latest[key.to_sym]
@@ -37,11 +37,7 @@ module Berg
     private
 
     def keys
-      @query.split(/\.|(\[\d+\])/).reject(&:empty?)
-    end
-
-    def add(trace, key)
-      trace << (key.match(ARRAY_ID) ? key : ".#{key}")
+      @query.split(/\.|(\[-?\d+\])/).reject(&:empty?)
     end
   end
 end

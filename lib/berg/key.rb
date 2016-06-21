@@ -1,29 +1,31 @@
 module Berg
   class Key
+    include Berg::Base
+
     def initialize(&block)
       @block = block
     end
 
     def self.locate(object, &block)
-      new(&block).locate(object, "")
+      new(&block).locate(object)
     end
 
-    def locate(object, current)
+    def locate(object, trace = "")
       case object
       when Array
         object.each_with_index do |rest, index|
-          if (result = locate(rest, current + "[#{index}]")).found?
+          if (result = locate(rest, add(trace, "[#{index}]"))).found?
             return result
           end
         end
       when Hash
         object.each_pair do |key, value|
-          if (result = locate(value, current + ".#{key}")).found?
+          if (result = locate(value, add(trace, key))).found?
             return result
           end
         end
       when TrueClass, FalseClass, NilClass, Fixnum, String
-        return @block.call(object) ? Found.new(current) : NotFound.new
+        return @block.call(object) ? Found.new(trace) : NotFound.new
       when Found, NotFound
         return object
       else
